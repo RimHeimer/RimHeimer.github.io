@@ -259,7 +259,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Kauft das angegebene Item und  gibt eine Operation zur Implatierung dazu in Auftrag.",
+    "description": "Kauft das angegebene Item und gibt eine Operation zur Implatierung dieses in Auftrag.",
     "name": "Operation",
     "usage": "!op <item> <quantity/bodypart>",
     "userLevel": "Anyone",
