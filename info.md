@@ -35,61 +35,61 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
-# Welcome
+# Wilkommen
 
-Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s stream.
-This stream uses the mod
-[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) to provide an
-interactive experience. There's a lot to the mod that may seem complicated to even more experienced
-users, but this short guide will help you get the hang of things.
+Wilkommen zu [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s Stream.
+Ceraph nutzt die Rimworld Mod
+[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) um mit seinen Zuschauern gemeinsam ein Interaktives Rimworld Chaos zu schaffen. 
+Vieles an dieser Mod mag am Anfang recht kompliziert erscheinen, nur hoffen wir, das diese kurze Anleitung dabei helfen kann im Ansatz zu verstehen, wie diese Mod funktioniert.
 
-## What is Twitch Toolkit?
+## Was ist eingentlich dieses Twitch Toolkit?
 
-Twitch Toolkit is a mod by hodlhodl that allows viewers to affect the game in a number of ways. The
-most prominent is its [store]({{- "/" | relative_url -}}), which allows you to purchase a number of
-things the streamer curated. Depending on the purchase, these things appear in-game or affect the
-game in some way. Another way viewers can interact with the game is through the mod's polls. The
-choices in these polls depend heavily on what's enabled in the mod.
+Twitch Toolkit ist eine Rimworld Mod von hodlhodl, die es den Zuschauern erlaubt das Spiel bzw die Kolonie auf viele verschiedene 
+Arten zu beinflussen. Im guten wie auch im schlechten. Ganz wonach euch der Sinn steht. Das wichtigsten ist wohl der [Store]({{- "/" | relative_url -}}),
+wo es dir möglich ist die verschiedenste Sachen mit Münzen zu kaufen. Je nachdem was ihr kauft erscheint es dann innerhalb der Kolonie,
+löst eins der vielen möglichen Events aus oder beeinflusst die Kolonie in anderer Art und Weise. 
+Ein weiterer Weg der Interaktion mit der Kolonie bzw Ceraph sind die immer mal wieder auftauchenden Abstimmungen. Bei diesen werden dann meist
+3 Optionen vom Spiel vorgegeben, bei welcher man dann mit passender Zahl im Chat abstimmen kann. Die Abstimmungen werden stark davon beeinflusst, was Ceraph im Vorfeld eingestellt hat.
 
-## What Are Coins?
+## Was sind Münzen?
 
-Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
+Münzen sind die Währund dieser Mod. Du kannst dir deinen aktuellen Kontostand via Chatbefehl `{{ bal }}` jederzeit ansehen. 
 
 {% if utils == true %}
-You'll notice the balance command may have some new emojis. If that's the case, here is an overview
-of the emojis as follows:
+Du hast evtl gemerkt, das es in deiner Kontostandnachricht neue Emotes gibt. Wenn dem so ist hier eine kurze übersicht über diese:
 
-- 💰 represents the amount of coins you current have.
-- ⚖ represents your current karma.
-- 📈 represents the amount of coins you gain everytime the mod awards coins.
-- 📉 represents the amount of coins you lose everytime to mod awards coins.
+- 💰 Zeigt dir die Menge an Münzen die du aktuell hast.
+- ⚖ Zeigt dir dein aktuelles Karma.
+- 📈 Gibt an wie viele Münzen du pro Zyklus dazu bekommst+.
+- 📉 Gibt an wie viele Münzen du pro Zyklus verlierst.
 
 {% endif %}
 
 
 {%- if lootboxes == true -%}
-You'll also notice that you'll get a message from the bot about a lootbox. You can open this lootbox
-by using the `!openlootbox` command, as well as check the number of lootboxes you have with `!lootboxes`.
+Du hast bestimmt außerdem bemerkt, das du eine Nachricht über eine Lootbox erhalten hast. Du kannst diese Lootboxen
+mit Hilfe des Chatbefehls `!openlootbox` öffnen. Außerdem kannst du mit dem Chatbefehl `!lootboxes` überprüfen wie viele Lootboxen du hast.
 You'll always get a new lootbox everyday.
 {%- endif -%}
 
 
 <br/>
-## What is Karma?
+## Was ist Karma?
 
-Karma is a system in the mod that tries to limit the amount of negative events a viewer can purchase at
-one time. This system works by directly modifying that amount of coins viewers get everytime the mod
-awards coins. This means that the lower you karma is, the lower your coin gain is. The hope is that
-negative events get spread out more so the colony can recover.
+Karma ist ein System innerhalb von Twitch Toolkit das versucht die Anzahl negativer Ereignisse zu begrenzen,
+die einer von euch auf mal kaufen kann. Dieses System funktioniert so, das es einen direkten Einfluss darauf hat,
+wie viele Münzen ihr pro Zyklus bekommt bzw verliert. Genauer gesagt, sorgt ein hoher Karmawert für mehr Münzen
+pro Zyklus und ein niedriger bzw negativer Karmawert sorgt dafür, das ihr Münzen verliert. Die Hoffnung dahinter ist,
+das sich negative Events dadurch mehr verteilen und die Kolonie sich zwischendurch erholen kann.
 
-## How Do I Use Twitch Toolkit?
+## Wie benutze ich das Twitch Toolkit?
 
-You can use Twitch Toolkit in a number of ways -- the most prominent way is through its
-[commands]({{- "/commands" | relative_url -}}). The more important command is the `{{- buy -}}`
-command, which is the mods entry point into purchasing things from the store. Other notable commands
-are the `!mypawn` commands, which allow you see various information about your pawn. We won't cover
-every command here, but most commands should generally be self-descriptive or have a description of
-what they do on the [commands]({{- "/commands" | relative_url -}}) page.
+Du kannst das Toolkit auf verschiedenste Weise nutzen. Die prominenteste Art und Weise sind hierbei wohl die
+[Befehle]({{- "/commands" | relative_url -}}). Der wichtigstes Befehl ist allerdings der `{{- buy -}}` Befehl,
+welcher dich die verschiedensten Sachen aus den Store kaufen lässt. Ein weiterer erwähnungswerter Befehl ist
+der `!mypawn` Befehl, dieser erlaubt dir eine vielzahl an Infomationen über deinen Pawn abzurufen. Um jeden
+Befehl hier nun zu erklären ist viel zu wenig Platz. Du kannst daher die komplette Liste der [Befehle]({{- "/commands" | relative_url -}})
+hier einsehen.
 
 
 {%- if puppeteer -%}
