@@ -68,6 +68,7 @@ Du hast evtl gemerkt, das es in deiner Kontostandnachricht neue Emotes gibt. Wen
 
 
 {%- if lootboxes == true -%}
+## Lootboxen
 Du hast bestimmt außerdem bemerkt, das du eine Nachricht über eine Lootbox erhalten hast. Du kannst diese Lootboxen
 mit Hilfe des Chatbefehls `!openlootbox` öffnen. Außerdem kannst du mit dem Chatbefehl `!lootboxes` überprüfen wie viele Lootboxen du hast.
 You'll always get a new lootbox everyday.
