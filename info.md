@@ -53,7 +53,8 @@ Ein weiterer Weg der Interaktion mit der Kolonie bzw Ceraph sind die immer mal w
 
 ## Was sind Münzen?
 
-Münzen sind die Währund dieser Mod. Du kannst dir deinen aktuellen Kontostand via Chatbefehl `{{ bal }}` jederzeit ansehen. 
+Münzen sind die Währund dieser Mod. Du kannst dir deinen aktuellen Kontostand via Chatbefehl `{{ bal }}` jederzeit ansehen.
+Münzen brauchst für jeder Interaktion mit der Kolonie. 
 
 {% if utils == true %}
 Du hast evtl gemerkt, das es in deiner Kontostandnachricht neue Emotes gibt. Wenn dem so ist hier eine kurze übersicht über diese:
