@@ -4,8 +4,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Updates the current list of active viewers.",
-    "name": "Refresh viewers",
+    "description": "Updated die aktuelle Liste an aktiven Zuschauern.",
+    "name": "Refresh Zuschauer",
     "usage": "!refreshviewers",
     "userLevel": "Moderator",
     "shortcut": false
@@ -15,9 +15,9 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Awards all active viewers coins.",
-    "name": "Karma round",
-    "usage": "!karmaround",
+    "description": "Verteielt an alle aktiven Zuschauer Münzen.",
+    "name": "Aktive Münzen",
+    "usage": "!aktivmünzen",
     "userLevel": "Moderator",
     "shortcut": false
   },
@@ -26,9 +26,9 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives eveyrone coins.",
-    "name": "Give all coins",
-    "usage": "!giveallcoins <coins>",
+    "description": "Verteilt an alle Zuschauer Münzen.",
+    "name": "Münzen für alle!",
+    "usage": "!coins <coins>",
     "userLevel": "Moderator",
     "shortcut": false
   },
@@ -37,8 +37,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer coins.",
-    "name": "Give coins",
+    "description": "Gibt einem Zuschauer Münzen.",
+    "name": "Münzen",
     "usage": "!givecoins <viewer> <coins>",
     "userLevel": "Moderator",
     "shortcut": false
@@ -48,8 +48,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows the balance of a given user.",
-    "name": "Check user",
+    "description": "Zeigt den Kontostand der erwähnten Zuschauers.",
+    "name": "Zuschauer-Kontostand",
     "usage": "!checkuser <viewer>",
     "userLevel": "Moderator",
     "shortcut": false
@@ -59,8 +59,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Sets the current karma for a given user.",
-    "name": "Set karma",
+    "description": "Setzt den Karmawert für den Zuschauer auf den angegebenen Wert.",
+    "name": "Setze Karmawert",
     "usage": "!setkarma <viewer> <karma>",
     "userLevel": "Moderator",
     "shortcut": false
@@ -70,9 +70,9 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Toggles coin generation.",
-    "name": "Toggle coins",
-    "usage": "!togglecoins",
+    "description": "Schaltet die Möglichkeit zum Sammeln von Münzen an/aus.",
+    "name": "Münzen sammeln an/aus",
+    "usage": "!getcoin",
     "userLevel": "Moderator",
     "shortcut": false
   },
@@ -82,8 +82,8 @@
       "mod": "Twitch Toolkit",
       "isBal": true
     },
-    "description": "Shows your current balance, karma, and optionally, the amount of coins earned per cycle.",
-    "name": "Check balance",
+    "description": "Zeigt dir deinen aktuellen Karmawert und deinen Kontostand an Münzen.",
+    "name": "Kontostand überprüfen",
     "usage": "!bal",
     "userLevel": "Anyone",
     "shortcut": false
@@ -93,9 +93,9 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "Karma explanation",
-    "usage": "!whatiskarma",
+    "description": "Was ist eigentlich dieses Karma, das ich sammeln kann?",
+    "name": "Karma erklärung",
+    "usage": "!wasistkarma",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -104,9 +104,9 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "Purchase list",
-    "usage": "!purchaselist",
+    "description": "Gibt den Link zur Liste an Dingen zurück, die man mit Münzen kaufen kann",
+    "name": "Einkaufsliste",
+    "usage": "!list",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -115,9 +115,9 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "Join queue",
-    "usage": "!joinqueue",
+    "description": "Trete der Warteschlange zum Beitreten der Kolonie bei.",
+    "name": "Warteschlange beitreten",
+    "usage": "!join",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -126,7 +126,7 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Eine kleine Info über diese Modifikation.",
     "name": "Mod info",
     "usage": "!modinfo",
     "userLevel": "Anyone",
@@ -138,7 +138,7 @@
       "mod": "Twitch Toolkit",
       "isBuy": true
     },
-    "description": null,
+    "description": "Der typische Kaufbefehl. Lässt sich mit $ abkürzen.",
     "name": "Buy",
     "usage": "!buy",
     "userLevel": "Anyone",
@@ -149,7 +149,7 @@
       "isShortcut": true,
       "mod": "Twitch Toolkit"
     },
-    "description": "Lets you wager coins to level up a skill of your choosing.",
+    "description": "Setze Münzen ein um deine Fähigkeiten zu verbessern.",
     "name": "Level skill",
     "usage": "!levelskill <skill> <coins>",
     "userLevel": "Anyone",
@@ -160,9 +160,9 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "Mod settings",
-    "usage": "!modsettings",
+    "description": "Gibt eine Info dazu, wie viele Münzen in welchem Zyklus verteilt werden, ob der Shop geöffnet hat und wo der maximale Karma wert liegt.",
+    "name": "Mod Einstellungen",
+    "usage": "!Optionen",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -171,9 +171,9 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "Instructions",
-    "usage": "!instructions",
+    "description": "Was ist eigentlich diese Toolkit?",
+    "name": "Toolkit Erklärung",
+    "usage": "!toolkit",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -182,9 +182,9 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "All commands",
-    "usage": "!allcommands",
+    "description": "Was soll ein Befehl mit dem Namen all Commands schon tun, außer dir alles Befehle anzuzeigen?",
+    "name": "Alle Befehle",
+    "usage": "!Befehle",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -193,8 +193,8 @@
       "isShortcut": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
+    "description": "Listet dir alles Mods auf, die gerade installiert und aktiv sind.",
+    "name": "Insta mods",
     "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false
@@ -204,8 +204,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Revive all",
+    "description": "Einmal Wiederbelebung für Alle!",
+    "name": "Massenwiederbelebung",
     "usage": "!reviveall",
     "userLevel": "Anyone",
     "shortcut": true
@@ -215,8 +215,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Revive me",
+    "description": "Du bist gestorben und möchtest von den Töten wiederauferstehen? Dann ist dieser Befehl definitiv dein Freund.",
+    "name": "Wiederbelebung",
     "usage": "!reviveme",
     "userLevel": "Anyone",
     "shortcut": true
@@ -226,8 +226,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Heal me",
+    "description": "Heielt eine Verletzung deines Pawn auf magische Weise.",
+    "name": "Heil mich",
     "usage": "!healme",
     "userLevel": "Anyone",
     "shortcut": true
@@ -237,8 +237,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Healall",
+    "description": "Heielt eine Verletzung von jedem Pawn.",
+    "name": "Heil alle",
     "usage": "!healall",
     "userLevel": "Anyone",
     "shortcut": true
@@ -248,9 +248,9 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
-    "name": "Passion shuffle",
-    "usage": "!passionshuffle [skill]",
+    "description": "Mischt deine Leidenschaften im Bezug auf deine Fähigkeiten neu. Bei Angabe einer Fähigkeit ist bei dieser mindestens eine schwache Leidenschaft garantiert.",
+    "name": "Mischen der Leidenschaften",
+    "usage": "!mischen [skill]",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -259,9 +259,9 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Purchases the part specified and queues it for surgery on your pawn.",
-    "name": "Surgery",
-    "usage": "!surgery <item> <quantity/bodypart>",
+    "description": "Kauft das angegebene Item und  gibt eine Operation zur Implatierung dazu in Auftrag.",
+    "name": "Operation",
+    "usage": "!op <item> <quantity/bodypart>",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -270,9 +270,9 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Add trait",
-    "usage": "!trait",
+    "description": "Füge ein Merkmal hinzu.",
+    "name": "Merkmal hinzufügen",
+    "usage": "!merkmal",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -281,8 +281,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Remove trait",
+    "description": "Entferne ein Merkmal",
+    "name": "Merkmal entfernen",
     "usage": "!removetrait",
     "userLevel": "Anyone",
     "shortcut": true
@@ -292,8 +292,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Revive any pawn",
+    "description": "Wiederbelebe einen zufälligen Pawn.",
+    "name": "Zufällige Wiederbelebung",
     "usage": "!reviveanypawn",
     "userLevel": "Anyone",
     "shortcut": true
@@ -303,8 +303,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Heal any pawn",
+    "description": "Heielt eine Verletzung eines zufälligen Pawns.",
+    "name": "Zufällige Heilung",
     "usage": "!healanypawn",
     "userLevel": "Anyone",
     "shortcut": true
@@ -314,8 +314,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Replaces a trait with a different trait.",
-    "name": "Replace trait",
+    "description": "Ersetzt eine Merkmal durch ein anderes.",
+    "name": "Merkmal ersetzen",
     "usage": "!replacetrait <old> <new>",
     "userLevel": "Anyone",
     "shortcut": true
@@ -325,7 +325,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "It's like buy item, but it gets added to your inventory if possible.",
+    "description": "Kaufe ein Item nd lasse es, wenn möglich, direkt in das Inventar deines Pawn liefern.",
     "name": "Backpack",
     "usage": "!backpack <item> [quantity]",
     "userLevel": "Anyone",
@@ -336,8 +336,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Downgrades a skill's passion... sometimes.",
-    "name": "Remove passion",
+    "description": "Schwäche bzw Lösche eine deiner Leidenschaften.",
+    "name": "Leidenschaft löschen",
     "usage": "!removepassion <skill>",
     "userLevel": "Anyone",
     "shortcut": true
@@ -347,8 +347,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Upgrades a skill's passion... sometimes.",
-    "name": "Add passion",
+    "description": "Steigere eine deiner Leidenschaften.",
+    "name": "Leidenschaft hinzufügen",
     "usage": "!passion <skill>",
     "userLevel": "Anyone",
     "shortcut": true
@@ -358,8 +358,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Full heal",
+    "description": "Heilt dein Pawn so lange bis dir die Münzen ausgehen oder dein Pawn vollständig geheilt ist.",
+    "name": "Vollständige Heilung",
     "usage": "!fullheal",
     "userLevel": "Anyone",
     "shortcut": true
@@ -369,7 +369,7 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Du wurdest entführt und möchtest, das Ceraph eine Chance bekommt, dich zu retten? Dann versuche es mal mit diesem Befehl",
     "name": "Rescue me",
     "usage": "!rescueme",
     "userLevel": "Anyone",
@@ -380,8 +380,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Viewer kill count",
+    "description": "Lasse dir anzeigen was dein Pawn bereits alles getötet hat.",
+    "name": "Pawn Tötungen",
     "usage": "!mypawnkills",
     "userLevel": "Anyone",
     "shortcut": false
