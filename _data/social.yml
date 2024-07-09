@@ -18,21 +18,21 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter:
+twitter: TheTrueCeraph
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+twitch: thetrueceraph
 tiktok:
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
-  tumblr:
-  pinterest:
-  pocket:
-  reddit: true
-  linkedin:
-  wordpress:
-  email: true
+  facebook: false
+  twitter: false
+  tumblr: false
+  pinterest: false
+  pocket: false
+  reddit: false
+  linkedin: false
+  wordpress: false
+  email: false
