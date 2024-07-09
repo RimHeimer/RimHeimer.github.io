@@ -391,8 +391,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your current stats within a given category.",
-    "name": "Viewer stats",
+    "description": "Zeigt dir die Werte deines Pawns im Bezug auf das Thema Kampf.",
+    "name": "Kampfstats",
     "usage": "!mypawnstats [stat1] [stat2]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -402,8 +402,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
-    "name": "Viewer health",
+    "description": "Listet dir alle Gesundheits-Werte deines Pawns auf. Bsp Bewusstsein 97%.",
+    "name": "Pawn Gesundheit",
     "usage": "!mypawnhealth [capacity]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -413,8 +413,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Viewer needs",
+    "description": "Listet dir alle Bedürfnis-Werte deines Pawn auf.",
+    "name": "Pawn Bedürfnisse",
     "usage": "!mypawnneeds",
     "userLevel": "Anyone",
     "shortcut": false
@@ -424,8 +424,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's gear.",
-    "name": "Viewer gear",
+    "description": "Listet dir auf, wie gut dein Pawn gegen welche Schadesarten geschützt ist.",
+    "name": "Pawn Rüstung",
     "usage": "!mypawngear",
     "userLevel": "Anyone",
     "shortcut": false
@@ -435,8 +435,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Viewer body",
+    "description": "Wenn dein Pawn an einer Krankheit leidet oder eine Verletzung aufweißt, wird dir hier genau aufgelisten aus was und in welchem Körperteil.",
+    "name": "Pawn Körper",
     "usage": "!mypawnbody",
     "userLevel": "Anyone",
     "shortcut": false
@@ -446,8 +446,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's work priorities.",
-    "name": "Viewer work",
+    "description": "Zeigt dir die Arbeits-Prioritäten deines Pawns. Mit Bsp !mypawnwark Firefighter=1 setzt du die Priorität der Arbeit Feuerwehr auf 1.",
+    "name": "Pawn Arbeitspriorisierung",
     "usage": "!mypawnwork [worktype=priority] [...]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -457,8 +457,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Viewer story",
+    "description": "Die Hintergrundegeschite deines Pawns. Sowohl die deiner Kindkeit, als auch die als Erwachsener.",
+    "name": "Pawn Hintergrundgeschichte",
     "usage": "!mypawnstory",
     "userLevel": "Anyone",
     "shortcut": false
@@ -468,8 +468,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Viewer skills",
+    "description": "Die Fertigkeitsnamen und deren Stufe werden dir unter diesem Befehl angezeigt.",
+    "name": "Pawn Fertigkeiten",
     "usage": "!mypawnskills",
     "userLevel": "Anyone",
     "shortcut": false
@@ -479,8 +479,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Fix viewer pawn",
+    "description": "Verknüpft deinen Pawn erneut mit deinem Namen im Chat.",
+    "name": "Relink Pawn",
     "usage": "!fixmypawn",
     "userLevel": "Anyone",
     "shortcut": false
@@ -490,8 +490,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Fix all pawns",
+    "description": "Verknüpft alle Pawns erneut mit ihren Twitch Gegenstücken.",
+    "name": "Relink all Pawns",
     "usage": "!fixallpawns",
     "userLevel": "Moderator",
     "shortcut": false
@@ -501,8 +501,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn leave the colony.",
-    "name": "Abandon pawn",
+    "description": "Du hast die Schnauße voll und willst nur noch gehen? Das ist mit diesem Befehl möglich. Achtung dieser Befehl lässt sich nicht Rückgängig machen!!",
+    "name": "Verlasse die Gemeintschaft",
     "usage": "!leave",
     "userLevel": "Anyone",
     "shortcut": false
@@ -512,8 +512,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's relationships to other viewers.",
-    "name": "Viewer relations",
+    "description": "Zeigt dir die Beziehungen deines Pawns zu Pawns anderer Zuschauer.",
+    "name": "Pawn Beziehungen",
     "usage": "!mypawnrelations [viewer]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -523,8 +523,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Factions",
+    "description": "Zum Anzeigen, welchen Ruft hat die Kolonie gerade bei den anderen Siedlungen.",
+    "name": "Kollonie Ruf",
     "usage": "!factions",
     "userLevel": "Anyone",
     "shortcut": false
@@ -534,9 +534,9 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
-    "name": "Research",
-    "usage": "!research [project/item]",
+    "description": "Zeigt das aktuelle Forschungsprojekt. Bei aktiver Forschung wird stattdessen der Fortschritt dieser angezeigt.",
+    "name": "Aktuelle Forschung",
+    "usage": "!forschung [project/item]",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -545,7 +545,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
+    "description": "Praktisch wie Google nur für Sachen die man mit Münzen kaufen kann. Zulässige Kategorien wind Pawns, Merkmale, Items, Events, Krankheiten, Tiere und Fähigkeiten. Bsp: !lookup Medi",
     "name": "Lookup",
     "usage": "!lookup <item/category> [query]",
     "userLevel": "Anyone",
@@ -556,7 +556,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
+    "description": "Funktioniert fast so wie Lookup allerdings zeigt es den Preis für das erste Ergebnis an. Der Name muss dazu richtig geschreiben sein.",
     "name": "Price check",
     "usage": "!price <item/category> [query]",
     "userLevel": "Anyone",
@@ -578,7 +578,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Schalte die Einkaufsliste an oder aus",
     "name": "Toggle store",
     "usage": "!togglestore",
     "userLevel": "Moderator",
@@ -589,7 +589,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
+    "description": "Lässt dein Pawn einen zufälligen Pawn eines Zuschauers beleidigen. Gibt du einen speziellen Namen ein wird dessen Pawn beleidigt.",
     "name": "Insult",
     "usage": "!insult [target]",
     "userLevel": "Anyone",
@@ -600,8 +600,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Colony wealth",
+    "description": "Zeigt an, wie reich die Kolonie aktuell ist.",
+    "name": "Koloniereichtung",
     "usage": "!wealth",
     "userLevel": "Anyone",
     "shortcut": false
@@ -611,8 +611,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Colonist count",
+    "description": "Zählt die Pawns, die sich gerade in der Kolonie aufhalten.",
+    "name": "Kolonisten zählen",
     "usage": "!colonists",
     "userLevel": "Anyone",
     "shortcut": false
@@ -625,7 +625,7 @@
     "description": "Provides some information about supported things. Supported categories are: 'weapons'",
     "name": "Database",
     "usage": "!rwdata <category/weaponname> [weaponname]",
-    "userLevel": "Anyone",
+    "userLevel": "Streamer",
     "shortcut": false
   },
   {
@@ -633,7 +633,7 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Deine Befehle werden nicht bearbeitet bzw du bekommst die Meldung, das das, was du gerade tun willst nicht funktioniert, während das Spielt pausiert ist, dabei ist es das gar nicht? Dann hilft dir dieser Befehl",
     "name": "Unstick me",
     "usage": "!imstuck",
     "userLevel": "Anyone",
@@ -644,7 +644,7 @@
       "isShortcut": false,
       "mod": "ToolkitCore"
     },
-    "description": null,
+    "description": "Hallo :)",
     "name": "hello",
     "usage": "!hello",
     "userLevel": "Moderator",
