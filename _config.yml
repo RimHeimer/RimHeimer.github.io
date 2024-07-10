@@ -1,7 +1,7 @@
 # Metadata
-title: "Ceraph's Einkaufliste"
+title: "Ceraph's Toolkit Liste"
 favicon: 'https://cdn.discordapp.com/attachments/1175735556307697716/1237146610870386719/Logo_C.png?ex=66904791&is=668ef611&hm=0e4b4f10cb676f3e23cbd196691fd9010a29dcdeb28eb45ebc7be1902b32181f'
-img: url('https://cdn.discordapp.com/attachments/1175735556307697716/1237146610434314334/Logo_A.png?ex=66904791&is=668ef611&hm=1cf73b4e7c4447ea232781841b81b51cbb872c037a0a3eb181f0ead23c460a42&')
+img: 'https://cdn.discordapp.com/attachments/1175735556307697716/1237146610434314334/Logo_A.png?ex=66904791&is=668ef611&hm=1cf73b4e7c4447ea232781841b81b51cbb872c037a0a3eb181f0ead23c460a42&'
 description: Eine auf Ceraph zugeschnittene Version der Toolkit Item List, welche die neusten Funktionen von Utils überstützt.
 
 baseurl: '' # the subpath of your site, e.g. /blog
