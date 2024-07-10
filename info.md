@@ -4,6 +4,10 @@ layout: page
 permalink: /info
 ---
 
+<script src="{{- 'assets/js/filter.js' | relative_url -}}"></script>
+<link rel="stylesheet" href="{{- 'assets/css/core.css' | relative_url -}} " />
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+
 {%- assign utils = false -%}
 {%- assign lootboxes = false -%}
 {%- assign puppeteer = false -%}
