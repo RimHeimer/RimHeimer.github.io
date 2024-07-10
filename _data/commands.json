@@ -28,7 +28,7 @@
     },
     "description": "Verteilt an alle Zuschauer Münzen.",
     "name": "Münzen für alle!",
-    "usage": "!giveallcoins <coins>",
+    "usage": "!giveallcoins <Anzahl>",
     "userLevel": "Moderator",
     "shortcut": false
   },
@@ -39,7 +39,7 @@
     },
     "description": "Gibt einem Zuschauer Münzen.",
     "name": "Münzen",
-    "usage": "!givecoins <viewer> <coins>",
+    "usage": "!givecoins <Zuschauer> <Anzahl>",
     "userLevel": "Moderator",
     "shortcut": false
   },
@@ -50,7 +50,7 @@
     },
     "description": "Zeigt den Kontostand der erwähnten Zuschauers.",
     "name": "Zuschauer-Kontostand",
-    "usage": "!checkuser <viewer>",
+    "usage": "!checkuser <Zuschauer>",
     "userLevel": "Moderator",
     "shortcut": false
   },
@@ -61,7 +61,7 @@
     },
     "description": "Setzt den Karmawert für den Zuschauer auf den angegebenen Wert.",
     "name": "Setze Karmawert",
-    "usage": "!setkarma <viewer> <karma>",
+    "usage": "!setkarma <Zuschauer> <Wert>",
     "userLevel": "Moderator",
     "shortcut": false
   },
@@ -85,7 +85,7 @@
     "description": "Zeigt dir deinen aktuellen Karmawert und deinen Kontostand an Münzen.",
     "name": "Kontostand überprüfen",
     "usage": "!bal",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -96,7 +96,7 @@
     "description": "Was ist eigentlich dieses Karma, das ich sammeln kann?",
     "name": "Karma erklärung",
     "usage": "!whatiskarma",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -107,7 +107,7 @@
     "description": "Gibt den Link zur Liste an Dingen zurück, die man mit Münzen kaufen kann",
     "name": "Einkaufsliste",
     "usage": "!purchaselist",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -118,7 +118,7 @@
     "description": "Trete der Warteschlange zum Beitreten der Kolonie bei.",
     "name": "Warteschlange beitreten",
     "usage": "!joinqueue",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -129,7 +129,7 @@
     "description": "Eine kleine Info über diese Modifikation.",
     "name": "Mod info",
     "usage": "!modinfo",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -141,7 +141,7 @@
     "description": "Der typische Kaufbefehl. Lässt sich mit $ abkürzen.",
     "name": "Buy",
     "usage": "!buy",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -151,8 +151,8 @@
     },
     "description": "Setze Münzen ein um deine Fähigkeiten zu verbessern.",
     "name": "Level skill",
-    "usage": "!levelskill <skill> <coins>",
-    "userLevel": "Anyone",
+    "usage": "!levelskill <Fähigkeit> <Anzahl>",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -163,7 +163,7 @@
     "description": "Gibt eine Info dazu, wie viele Münzen in welchem Zyklus verteilt werden, ob der Shop geöffnet hat und wo der maximale Karma wert liegt.",
     "name": "Mod Einstellungen",
     "usage": "!modsettings",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -174,7 +174,7 @@
     "description": "Was ist eigentlich diese Toolkit?",
     "name": "Toolkit Erklärung",
     "usage": "!instructions",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -185,7 +185,7 @@
     "description": "Was soll ein Befehl mit dem Namen all Commands schon tun, außer dir alles Befehle anzuzeigen?",
     "name": "Alle Befehle",
     "usage": "!allcommands",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -196,7 +196,7 @@
     "description": "Listet dir alles Mods auf, die gerade installiert und aktiv sind.",
     "name": "Instalierte Mods",
     "usage": "!installedmods",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -207,7 +207,7 @@
     "description": "Einmal Wiederbelebung für Alle!",
     "name": "Massenwiederbelebung",
     "usage": "!reviveall",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -218,7 +218,7 @@
     "description": "Du bist gestorben und möchtest von den Töten wiederauferstehen? Dann ist dieser Befehl definitiv dein Freund.",
     "name": "Wiederbelebung",
     "usage": "!reviveme",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -229,7 +229,7 @@
     "description": "Heile eine Verletzung deines Pawn.",
     "name": "Heal me",
     "usage": "!healme",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -240,7 +240,7 @@
     "description": "Heile eine Verletzung von jedem Pawn.",
     "name": "Heal all",
     "usage": "!healall",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -251,7 +251,7 @@
     "description": "Mischt deine Leidenschaften im Bezug auf deine Fähigkeiten neu. Bei Angabe einer Fähigkeit ist bei dieser mindestens eine schwache Leidenschaft garantiert.",
     "name": "Mischen der Leidenschaften",
     "usage": "!passionshuffle [skill]",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -261,8 +261,8 @@
     },
     "description": "Kauft das angegebene Item und gibt eine Operation zur Implatierung dieses in Auftrag.",
     "name": "Operation",
-    "usage": "!surgery <item> <quantity/bodypart>",
-    "userLevel": "Anyone",
+    "usage": "!surgery <Item> <Anzahl/Körperteil>",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -273,7 +273,7 @@
     "description": "Füge ein Merkmal hinzu.",
     "name": "Merkmal hinzufügen",
     "usage": "!trait",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -284,7 +284,7 @@
     "description": "Entferne ein Merkmal",
     "name": "Merkmal entfernen",
     "usage": "!removetrait",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -295,7 +295,7 @@
     "description": "Wiederbelebe einen zufälligen Pawn.",
     "name": "Zufällige Wiederbelebung",
     "usage": "!reviveanypawn",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -306,7 +306,7 @@
     "description": "Heielt eine Verletzung eines zufälligen Pawns.",
     "name": "Zufällige Heilung",
     "usage": "!healanypawn",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -316,8 +316,8 @@
     },
     "description": "Ersetzt eine Merkmal durch ein anderes.",
     "name": "Merkmal ersetzen",
-    "usage": "!replacetrait <old> <new>",
-    "userLevel": "Anyone",
+    "usage": "!replacetrait <alt> <neu>",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -327,8 +327,8 @@
     },
     "description": "Kaufe ein Item nd lasse es, wenn möglich, direkt in das Inventar deines Pawn liefern.",
     "name": "Backpack",
-    "usage": "!backpack <item> [quantity]",
-    "userLevel": "Anyone",
+    "usage": "!backpack <Item> [Anzahl]",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -338,8 +338,8 @@
     },
     "description": "Schwäche bzw Lösche eine deiner Leidenschaften.",
     "name": "Leidenschaft löschen",
-    "usage": "!removepassion <skill>",
-    "userLevel": "Anyone",
+    "usage": "!removepassion <Fähigkeit>",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -349,8 +349,8 @@
     },
     "description": "Steigere eine deiner Leidenschaften.",
     "name": "Leidenschaft hinzufügen",
-    "usage": "!passion <skill>",
-    "userLevel": "Anyone",
+    "usage": "!passion <Fähigkeit>",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -361,7 +361,7 @@
     "description": "Heilt dein Pawn so lange bis dir die Münzen ausgehen oder dein Pawn vollständig geheilt ist.",
     "name": "Vollständige Heilung",
     "usage": "!fullheal",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -372,7 +372,7 @@
     "description": "Du wurdest entführt und möchtest, das Ceraph eine Chance bekommt, dich zu retten? Dann versuche es mal mit diesem Befehl",
     "name": "Rescue me",
     "usage": "!rescueme",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": true
   },
   {
@@ -383,7 +383,7 @@
     "description": "Lasse dir anzeigen was dein Pawn bereits alles getötet hat.",
     "name": "Pawn Tötungen",
     "usage": "!mypawnkills",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -393,8 +393,8 @@
     },
     "description": "Zeigt dir die Werte deines Pawns im Bezug auf das Thema Kampf.",
     "name": "Kampfstats",
-    "usage": "!mypawnstats [stat1] [stat2]",
-    "userLevel": "Anyone",
+    "usage": "!mypawnstats",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -404,8 +404,8 @@
     },
     "description": "Listet dir alle Gesundheits-Werte deines Pawns auf. Bsp Bewusstsein 97%.",
     "name": "Pawn Gesundheit",
-    "usage": "!mypawnhealth [capacity]",
-    "userLevel": "Anyone",
+    "usage": "!mypawnhealth",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -416,7 +416,7 @@
     "description": "Listet dir alle Bedürfnis-Werte deines Pawn auf.",
     "name": "Pawn Bedürfnisse",
     "usage": "!mypawnneeds",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -427,7 +427,7 @@
     "description": "Listet dir auf, wie gut dein Pawn gegen welche Schadesarten geschützt ist.",
     "name": "Pawn Rüstung",
     "usage": "!mypawngear",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -438,7 +438,7 @@
     "description": "Wenn dein Pawn an einer Krankheit leidet oder eine Verletzung aufweißt, wird dir hier genau aufgelisten aus was und in welchem Körperteil.",
     "name": "Pawn Körper",
     "usage": "!mypawnbody",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -449,7 +449,7 @@
     "description": "Zeigt dir die Arbeits-Prioritäten deines Pawns. Mit Bsp !mypawnwark Firefighter=1 setzt du die Priorität der Arbeit Feuerwehr auf 1.",
     "name": "Pawn Arbeitspriorisierung",
     "usage": "!mypawnwork [worktype=priority] [...]",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -460,7 +460,7 @@
     "description": "Die Hintergrundegeschite deines Pawns. Sowohl die deiner Kindkeit, als auch die als Erwachsener.",
     "name": "Pawn Hintergrundgeschichte",
     "usage": "!mypawnstory",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -471,7 +471,7 @@
     "description": "Die Fertigkeitsnamen und deren Stufe werden dir unter diesem Befehl angezeigt.",
     "name": "Pawn Fertigkeiten",
     "usage": "!mypawnskills",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -482,7 +482,7 @@
     "description": "Verknüpft deinen Pawn erneut mit deinem Namen im Chat.",
     "name": "Relink Pawn",
     "usage": "!fixmypawn",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -504,7 +504,7 @@
     "description": "Du hast die Schnauße voll und willst nur noch gehen? Das ist mit diesem Befehl möglich. Achtung dieser Befehl lässt sich nicht Rückgängig machen!!",
     "name": "Verlasse die Gemeintschaft",
     "usage": "!leave",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -514,8 +514,8 @@
     },
     "description": "Zeigt dir die Beziehungen deines Pawns zu Pawns anderer Zuschauer.",
     "name": "Pawn Beziehungen",
-    "usage": "!mypawnrelations [viewer]",
-    "userLevel": "Anyone",
+    "usage": "!mypawnrelations [Zuschauer]",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -526,7 +526,7 @@
     "description": "Zum Anzeigen, welchen Ruft hat die Kolonie gerade bei den anderen Siedlungen.",
     "name": "Kollonie Ruf",
     "usage": "!factions",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -536,8 +536,8 @@
     },
     "description": "Zeigt das aktuelle Forschungsprojekt. Bei aktiver Forschung wird stattdessen der Fortschritt dieser angezeigt.",
     "name": "Aktuelle Forschung",
-    "usage": "!research [project/item]",
-    "userLevel": "Anyone",
+    "usage": "!research [Projekt/Item]",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -547,8 +547,8 @@
     },
     "description": "Praktisch wie Google nur für Sachen die man mit Münzen kaufen kann. Zulässige Kategorien wind Pawns, Merkmale, Items, Events, Krankheiten, Tiere und Fähigkeiten. Bsp: !lookup Medi",
     "name": "Lookup",
-    "usage": "!lookup <item/category> [query]",
-    "userLevel": "Anyone",
+    "usage": "!lookup <Item/Kategorie>",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -558,8 +558,8 @@
     },
     "description": "Funktioniert fast so wie Lookup allerdings zeigt es den Preis für das erste Ergebnis an. Der Name muss dazu richtig geschreiben sein.",
     "name": "Price check",
-    "usage": "!price <item/category> [query]",
-    "userLevel": "Anyone",
+    "usage": "!price <Item/Kategorie>",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -567,8 +567,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Unstick",
+    "description": "Funktioniert wie Im stuck, nur für alle Zischauer und nicht nur für eine selbst",
+    "name": "Multi stuck",
     "usage": "!unstick",
     "userLevel": "Moderator",
     "shortcut": false
@@ -591,8 +591,8 @@
     },
     "description": "Lässt dein Pawn einen zufälligen Pawn eines Zuschauers beleidigen. Gibt du einen speziellen Namen ein wird dessen Pawn beleidigt.",
     "name": "Beledigen",
-    "usage": "!insult [target]",
-    "userLevel": "Anyone",
+    "usage": "!insult [Ziel]",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -603,7 +603,7 @@
     "description": "Zeigt an, wie reich die Kolonie aktuell ist.",
     "name": "Kolonie-Reichtum",
     "usage": "!wealth",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -614,7 +614,7 @@
     "description": "Zählt die Pawns, die sich gerade in der Kolonie aufhalten.",
     "name": "Kolonisten zählen",
     "usage": "!colonists",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
@@ -624,7 +624,7 @@
     },
     "description": "Provides some information about supported things. Supported categories are: 'weapons'",
     "name": "Database",
-    "usage": "!rwdata <category/weaponname> [weaponname]",
+    "usage": "!rwdata <Kategorie/Waffenname>",
     "userLevel": "Streamer",
     "shortcut": false
   },
@@ -634,9 +634,9 @@
       "mod": "ToolkitUtils"
     },
     "description": "Deine Befehle werden nicht bearbeitet bzw du bekommst die Meldung, das das, was du gerade tun willst nicht funktioniert, während das Spielt pausiert ist, dabei ist es das gar nicht? Dann hilft dir dieser Befehl",
-    "name": "Unstick me",
+    "name": "Im stuck",
     "usage": "!imstuck",
-    "userLevel": "Anyone",
+    "userLevel": "Jeder",
     "shortcut": false
   },
   {
