@@ -6,13 +6,13 @@ body {
   background-position: center ;*/
 }
 
-.tab {
+.tab { /*Leite unter der Überschrift*/
     overflow: hidden;
     border: 1px solid #cccccc;
     background-color: #f1f1f1;
 }
 
-.tab button {
+.tab button { /*Buttons der Leiste s.o.*/
     background-color: inherit;
     border: none;
     outline: none;
@@ -22,7 +22,7 @@ body {
     font-size: 0.75em;
 }
 
-.tab button:hover {
+.tab button:hover { /*Farbe der Buttons*/
     background-color: #cccccc;
 }
 
