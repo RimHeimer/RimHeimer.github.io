@@ -194,7 +194,7 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Listet dir alles Mods auf, die gerade installiert und aktiv sind.",
-    "name": "Insta mods",
+    "name": "Instalierte Mods",
     "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false
@@ -226,8 +226,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Heielt eine Verletzung deines Pawn auf magische Weise.",
-    "name": "Heil mich",
+    "description": "Heile eine Verletzung deines Pawn.",
+    "name": "Heal me",
     "usage": "!healme",
     "userLevel": "Anyone",
     "shortcut": true
@@ -237,8 +237,8 @@
       "isShortcut": true,
       "mod": "ToolkitUtils"
     },
-    "description": "Heielt eine Verletzung von jedem Pawn.",
-    "name": "Heil alle",
+    "description": "Heile eine Verletzung von jedem Pawn.",
+    "name": "Heal all",
     "usage": "!healall",
     "userLevel": "Anyone",
     "shortcut": true
@@ -578,8 +578,8 @@
       "isShortcut": false,
       "mod": "ToolkitUtils"
     },
-    "description": "Schalte die Einkaufsliste an oder aus",
-    "name": "Toggle store",
+    "description": "Öffne bzw Schließe den Store",
+    "name": "Toggle Store",
     "usage": "!togglestore",
     "userLevel": "Moderator",
     "shortcut": false
@@ -590,7 +590,7 @@
       "mod": "ToolkitUtils"
     },
     "description": "Lässt dein Pawn einen zufälligen Pawn eines Zuschauers beleidigen. Gibt du einen speziellen Namen ein wird dessen Pawn beleidigt.",
-    "name": "Insult",
+    "name": "Beledigen",
     "usage": "!insult [target]",
     "userLevel": "Anyone",
     "shortcut": false
@@ -601,7 +601,7 @@
       "mod": "ToolkitUtils"
     },
     "description": "Zeigt an, wie reich die Kolonie aktuell ist.",
-    "name": "Koloniereichtung",
+    "name": "Kolonie-Reichtum",
     "usage": "!wealth",
     "userLevel": "Anyone",
     "shortcut": false
