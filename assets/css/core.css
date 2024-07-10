@@ -102,7 +102,7 @@ span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #5a5454; /*Farbe Schrift Von Mod:*/
+    color: #ffffff; /*Farbe Schrift Von Mod:?*/
   }
 }
 
@@ -119,6 +119,6 @@ span.metadata {
   span.metadata {
     font-size: 0.85em;
     font-style: italic;
-    color: #6a329f; /*Farbe Schrift "Verwendung"*/
+    color: #ffffff; /*Farbe Schrift "Verwendung"?*/
   }
 }
