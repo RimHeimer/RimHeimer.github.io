@@ -22,13 +22,13 @@ twitter: TheTrueCeraph
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: thetrueceraph
+twitch: TheTrueCeraph
 tiktok:
 
 # Share button options
 share:
   facebook: false
-  twitter: false
+  twitter: true
   tumblr: false
   pinterest: false
   pocket: false
