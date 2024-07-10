@@ -1,6 +1,6 @@
 # Metadata
 title: "Ceraph's Einkaufliste"
-favicon: assets/img/favicon.png
+favicon: 'https://cdn.discordapp.com/attachments/1175735556307697716/1237146610870386719/Logo_C.png?ex=66904791&is=668ef611&hm=0e4b4f10cb676f3e23cbd196691fd9010a29dcdeb28eb45ebc7be1902b32181f'
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
 baseurl: '' # the subpath of your site, e.g. /blog
