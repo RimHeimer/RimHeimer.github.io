@@ -79,7 +79,7 @@ td.description {
 span.eventRedirect {
   cursor: pointer;
   text-decoration: underline;
-  color:#22527b;;
+  color:#ffffff;; /*22527b*/
 }
 span.metadata {
     font-size: 0.8em;
