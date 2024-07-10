@@ -16,8 +16,8 @@
       "mod": "Twitch Toolkit"
     },
     "description": "Verteielt an alle aktiven Zuschauer Münzen.",
-    "name": "Aktive Münzen",
-    "usage": "!aktivmünzen",
+    "name": "Aktiv Münzen",
+    "usage": "!karmaround",
     "userLevel": "Moderator",
     "shortcut": false
   },
@@ -28,7 +28,7 @@
     },
     "description": "Verteilt an alle Zuschauer Münzen.",
     "name": "Münzen für alle!",
-    "usage": "!coins <coins>",
+    "usage": "!giveallcoins <coins>",
     "userLevel": "Moderator",
     "shortcut": false
   },
@@ -72,7 +72,7 @@
     },
     "description": "Schaltet die Möglichkeit zum Sammeln von Münzen an/aus.",
     "name": "Münzen sammeln an/aus",
-    "usage": "!getcoin",
+    "usage": "!togglecoin",
     "userLevel": "Moderator",
     "shortcut": false
   },
@@ -95,7 +95,7 @@
     },
     "description": "Was ist eigentlich dieses Karma, das ich sammeln kann?",
     "name": "Karma erklärung",
-    "usage": "!wasistkarma",
+    "usage": "!whatiskarma",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -106,7 +106,7 @@
     },
     "description": "Gibt den Link zur Liste an Dingen zurück, die man mit Münzen kaufen kann",
     "name": "Einkaufsliste",
-    "usage": "!list",
+    "usage": "!purchaselist",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -117,7 +117,7 @@
     },
     "description": "Trete der Warteschlange zum Beitreten der Kolonie bei.",
     "name": "Warteschlange beitreten",
-    "usage": "!join",
+    "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -162,7 +162,7 @@
     },
     "description": "Gibt eine Info dazu, wie viele Münzen in welchem Zyklus verteilt werden, ob der Shop geöffnet hat und wo der maximale Karma wert liegt.",
     "name": "Mod Einstellungen",
-    "usage": "!Optionen",
+    "usage": "!modsettings",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -173,7 +173,7 @@
     },
     "description": "Was ist eigentlich diese Toolkit?",
     "name": "Toolkit Erklärung",
-    "usage": "!toolkit",
+    "usage": "!instructions",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -184,7 +184,7 @@
     },
     "description": "Was soll ein Befehl mit dem Namen all Commands schon tun, außer dir alles Befehle anzuzeigen?",
     "name": "Alle Befehle",
-    "usage": "!Befehle",
+    "usage": "!allcommands",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -250,7 +250,7 @@
     },
     "description": "Mischt deine Leidenschaften im Bezug auf deine Fähigkeiten neu. Bei Angabe einer Fähigkeit ist bei dieser mindestens eine schwache Leidenschaft garantiert.",
     "name": "Mischen der Leidenschaften",
-    "usage": "!mischen [skill]",
+    "usage": "!passionshuffle [skill]",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -261,7 +261,7 @@
     },
     "description": "Kauft das angegebene Item und gibt eine Operation zur Implatierung dieses in Auftrag.",
     "name": "Operation",
-    "usage": "!op <item> <quantity/bodypart>",
+    "usage": "!surgery <item> <quantity/bodypart>",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -272,7 +272,7 @@
     },
     "description": "Füge ein Merkmal hinzu.",
     "name": "Merkmal hinzufügen",
-    "usage": "!merkmal",
+    "usage": "!trait",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -536,7 +536,7 @@
     },
     "description": "Zeigt das aktuelle Forschungsprojekt. Bei aktiver Forschung wird stattdessen der Fortschritt dieser angezeigt.",
     "name": "Aktuelle Forschung",
-    "usage": "!forschung [project/item]",
+    "usage": "!research [project/item]",
     "userLevel": "Anyone",
     "shortcut": false
   },
