@@ -7,11 +7,11 @@ body {
   background-position: center ;*/
 }
 
-/*.site-header {
+.site-header {
     background-image: url('https://cdn.discordapp.com/attachments/1175735556307697716/1237146610434314334/Logo_A.png?ex=66904791&is=668ef611&hm=1cf73b4e7c4447ea232781841b81b51cbb872c037a0a3eb181f0ead23c460a42&');
     background-size: contain; 
     background-position: center; 
-    height: 450px; */
+    height: 450px; 
 
 .tab { /*Leite unter der Überschrift*/
     overflow: hidden;
