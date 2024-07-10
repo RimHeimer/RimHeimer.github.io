@@ -13,7 +13,7 @@ header {
 }
 
 .tab button {
-    background-color: #5a5454;
+    background-color: inherit;
     border: none;
     outline: none;
     cursor: pointer;
