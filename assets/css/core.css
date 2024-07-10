@@ -1,3 +1,7 @@
+body {
+  background-color: lightblue;
+}
+
 .tab {
     overflow: hidden;
     border: 1px solid #cccccc;
