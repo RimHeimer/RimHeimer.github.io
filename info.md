@@ -96,5 +96,7 @@ der `!mypawn` Befehl, dieser erlaubt dir eine vielzahl an Infomationen über dei
 Befehl hier nun zu erklären ist viel zu wenig Platz. Du kannst daher die komplette Liste der [Befehle]({{- "/commands" | relative_url -}})
 hier einsehen.
 
+<br/>
+<br/>
 
 Du hast es bis ans Ende der Info Seite geschaft <img src="assets/img/3.0.gif"> lorem ipsum
