@@ -7,7 +7,7 @@ body {
   background-position: center ;*/
 }
 
-.tab { /*Leite unter der Überschrift*/
+.tab { /*Leiste unter der Überschrift*/
     overflow: hidden;
     border: 1px solid #cccccc;
     background-color: #f1f1f1;
@@ -28,6 +28,7 @@ body {
 }
 
 .tabContent {
+    background-color: #cccccc;
     display: none;
     animation: fadeEffect 320ms;
     border-top: none;
