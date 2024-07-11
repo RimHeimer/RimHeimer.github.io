@@ -28,7 +28,7 @@ body {
 }
 
 .tabContent {
-    background-color: #cccccc;
+    background-color: #f1f1f1;
     display: none;
     animation: fadeEffect 320ms;
     border-top: none;
