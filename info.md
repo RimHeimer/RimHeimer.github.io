@@ -99,4 +99,4 @@ Befehl hier nun zu erklären ist viel zu wenig Platz. Du kannst daher die komple
 hier einsehen.
 
 
-### Du hast es bis ans Ende der Info Seite geschaft ![](assets/img/3.0.gif) 
+### Du hast es bis ans Ende der Info Seite geschaft [](assets/img/3.0.gif) 
