@@ -2063,7 +2063,7 @@
           "+75 Ledermenge",
           "+3 Ehre-Wertigkeit"
         ],
-        "mod": "Unknown",
+        "mod": "RimWorld",
         "karmaType": null
       },
       "description": "Ein durchschnittlicher Mensch, weitgehend unberührt von gentechnischen Eingriffen und evolutionären Prozessen auf erdfremden Planeten.",
@@ -2076,22 +2076,22 @@
       "data": {
         "customName": false,
         "stats": [
-          "+60.00 Gewicht",
-          "+70% Entflammbarkeit",
-          "+$1750 Marktwert",
-          "+4.60 Laufgeschwindigkeit",
+          "+40.00 Gewicht",
+          "+50% Entflammbarkeit",
+          "+$2750 Marktwert",
+          "+5.60 Laufgeschwindigkeit",
           "+16.0C Min. Wohlfühltemperatur",
           "+26.0C Max. Wohlfühltemperatur",
-          "+75 Ledermenge",
+          "+25 Ledermenge",
           "+3 Ehre-Wertigkeit"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "Ein durchschnittlicher Mensch, weitgehend unberührt von gentechnischen Eingriffen und evolutionären Prozessen auf erdfremden Planeten.",
-      "defName": "CreepJoiner",
+      "description": "Ein durchschnittlicher Yokai der Unterart der Yurei, weitgehend unberührt von gentechnischen Eingriffen.",
+      "defName": "Yurei",
       "enabled": true,
-      "name": "Mensch",
+      "name": "Yokai",
       "price": 2917
     }
   ]
