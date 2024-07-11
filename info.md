@@ -98,6 +98,14 @@ hier einsehen.
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-Du hast es bis ans Ende der Info Seite geschaft <img src="assets/img/3.0.gif"> lorem ipsum
+Du hast es bis ans Ende der Info Seite geschaft <img src="assets/img/3.0.gif"> lorem ipsum <br/>
  Der `{{- buy -}}` Befehlt lässt sich im übrigen durch ein simples $ ersetzen.
