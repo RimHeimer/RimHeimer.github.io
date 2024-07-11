@@ -107,4 +107,4 @@ hier einsehen.
 
 
 
-Du hast es bis ans Ende der Info Seite geschaft <img src="assets/img/3.0.gif" width="100%" height="100%"> lorem ipsum
+Du hast es bis ans Ende der Info Seite geschaft <img src="assets/img/3.0.gif" width="10%" height="10%"> lorem ipsum
