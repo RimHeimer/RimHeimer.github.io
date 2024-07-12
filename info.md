@@ -40,7 +40,7 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
-# Wilkommen
+# <img src="assets/img/flame_left.png">Wilkommen<img src="assets/img/flame_right.png">
 
 Wilkommen zu [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s Stream.
 Ceraph nutzt die Rimworld Mod
@@ -107,8 +107,5 @@ hier einsehen.
 <br/>
 <br/>
 
-Du hast es bis ans Ende der Info Seite geschaft.
-![alt text](assets/img/3.0.gif) Dafür ein kleiner Hinweis.<br/>
+Hier noch ein kleiner Hinweis.<br/>
  Der `{{- buy -}}` Befehlt lässt sich auch durch ein simples `$` ersetzen. <br/>
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
