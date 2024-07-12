@@ -30,14 +30,14 @@
       "degree": 0,
       "description": "Du bekommt einen Kick, wenn du jemanden verletzt, und der Anblick von Blut und Tod stört dich nicht. Die Chance, dass du eine Prügelei beginnt, ist viermal höher als normal.",
       "stats": [
-        "Morbider Meditationfokus möglich."
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "Morbid meditation focus type allowed."
+          "Morbider Meditationfokus möglich."
         ],
         "canBypassLimit": false,
         "customName": false,

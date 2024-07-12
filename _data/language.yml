@@ -41,7 +41,7 @@ search_weapons: 'Suche nach Waffen...'
 # Metadata
 usage: 'Verwendung: %s'
 shortcut: 'Dies ist ein Shortcut für %s'
-stats: 'Statistiken'
+stats: 'Merkmale'
 conflicts_with: 'Konflikte mit'
 from: 'Von %s'
 weight: 'Gewicht'
