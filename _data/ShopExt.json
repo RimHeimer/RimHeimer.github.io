@@ -69,7 +69,7 @@
           "psychopath"
         ],
         "stats": [
-          "x200% Globaler-Glaubensverlust-Faktor"
+          "x200% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -97,7 +97,7 @@
         "conflicts": [],
         "stats": [
           "Morbider Meditationfokus möglich.",
-          "x50% Globaler-Glaubensverlust-Faktor"
+          "x50% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -106,7 +106,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Psychopath",
-      "name": "psychopath"
+      "name": "Psychopath"
     },
     {
       "canAdd": true,
@@ -132,7 +132,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Cannibal",
-      "name": "kannibale"
+      "name": "Kannibale"
     },
     {
       "canAdd": true,
@@ -149,7 +149,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "x50% Globaler-Glaubensverlust-Faktor"
+          "x50% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -189,9 +189,9 @@
           "langsamerlerner"
         ],
         "stats": [
-          "+75% Globaler-Lernrate-Faktor",
+          "+75% Globale-Lernrate",
           "+12% Nervenbelastungsgrenze",
-          "x50% Globaler-Glaubensverlust-Faktor"
+          "x50% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -200,7 +200,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "TooSmart",
-      "name": "zuklug"
+      "name": "zu klug"
     },
     {
       "canAdd": true,
@@ -240,7 +240,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Brawler",
-      "name": "raufbold"
+      "name": "Raufbold"
     },
     {
       "canAdd": true,
@@ -270,7 +270,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Masochist",
-      "name": "masochist"
+      "name": "Masochist"
     },
     {
       "canAdd": true,
@@ -292,7 +292,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "NightOwl",
-      "name": "nachteule"
+      "name": "Nachteule"
     },
     {
       "canAdd": true,
@@ -381,7 +381,7 @@
         "stats": [
           "Künstlerischer Meditationfokus unmöglich.",
           "Minimaler Meditationfokus möglich.",
-          "x50% Globaler-Glaubensverlust-Faktor"
+          "x50% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -390,7 +390,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Ascetic",
-      "name": "asket"
+      "name": "Asket"
     },
     {
       "canAdd": true,
@@ -412,7 +412,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Gay",
-      "name": "homosexuell"
+      "name": "Homosexuell"
     },
     {
       "canAdd": true,
@@ -434,7 +434,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Bisexual",
-      "name": "bisexuell"
+      "name": "Bisexuell"
     },
     {
       "canAdd": true,
@@ -456,7 +456,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Asexual",
-      "name": "asexuell"
+      "name": "Asexuell"
     },
     {
       "canAdd": true,
@@ -478,7 +478,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "AnnoyingVoice",
-      "name": "nervigestimme"
+      "name": "nervige Stimme"
     },
     {
       "canAdd": true,
@@ -500,7 +500,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "CreepyBreathing",
-      "name": "gruseligeatmung"
+      "name": "gruselige Atmung"
     },
     {
       "canAdd": true,
@@ -528,7 +528,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Pyromaniac",
-      "name": "pyromane"
+      "name": "Pyromane"
     },
     {
       "canAdd": true,
@@ -536,7 +536,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy ist schwach und feige. Schon der kleinste Schmerz wird ihn umhauen.",
+      "description": "Du bist schwach und feige. Schon der kleinste Schmerz wird dich umhauen.",
       "stats": [
         "-50% Schmerzschockschwelle",
         "x200% Global-Glaubensverlust-Faktor"
@@ -553,7 +553,7 @@
         ],
         "stats": [
           "-50% Schmerzschockschwelle",
-          "x200% Global-Glaubensverlust-Faktor"
+          "x200% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -562,7 +562,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Wimp",
-      "name": "weichei"
+      "name": "Weichei"
     },
     {
       "canAdd": true,
@@ -570,7 +570,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy verfügt über eine bemerkenswerte kinästhetische Intelligenz. er scheint Gefahren mit außergewöhnlicher Eleganz zu umtanzen.",
+      "description": "Du verfügt über eine bemerkenswerte kinästhetische Intelligenz. Du scheint Gefahren mit außergewöhnlicher Eleganz zu umtanzen.",
       "stats": [
         "+15.0 Nahkampfausweichchance",
         "x10% Fallenauslösungschance"
@@ -598,7 +598,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat eine Begabung fürs Lernen. er begreift Dinge viel schneller als andere.",
+      "description": "Du hat eine Begabung fürs Lernen. Du begreifst Dinge viel schneller als andere.",
       "stats": [
         "+75% Global-Lernrate-Faktor"
       ],
@@ -607,7 +607,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "+75% Global-Lernrate-Faktor"
+          "+75% Globale-Lernrate"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -616,7 +616,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "FastLearner",
-      "name": "schnellerlerner"
+      "name": "schneller lerner"
     },
     {
       "canAdd": true,
@@ -624,7 +624,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy ist schwer von Begriff. er lernt viel langsamer als andere.",
+      "description": "Du bist schwer von Begriff. Du lernt viel langsamer als andere.",
       "stats": [
         "-75% Global-Lernrate-Faktor",
         "x50% Global-Glaubensverlust-Faktor"
@@ -638,8 +638,8 @@
           "zuklug"
         ],
         "stats": [
-          "-75% Global-Lernrate-Faktor",
-          "x50% Global-Glaubensverlust-Faktor"
+          "-75% Globale-Lernrate",
+          "x50% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -648,7 +648,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "SlowLearner",
-      "name": "langsamerlerner"
+      "name": "langsamer lerner"
     },
     {
       "canAdd": true,
@@ -656,7 +656,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat kein Bedürfnis, nach draußen zu gehen oder im Hellen zu sein. er wird sich nie eingesperrt fühlen oder einen Lagerkoller bekommen, und stört sich nicht an der Dunkelheit. Allerdings bekommt Timmy schlechte Laune, wenn er draußen ist.",
+      "description": "Du hast kein Bedürfnis, nach draußen zu gehen oder im Hellen zu sein. Du wirst dich nie eingesperrt fühlen, einen Lagerkoller bekommen oder dich an der Dunkelheit stören. Allerdings bekommst du schlechte Laune, wenn du draußen bist.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -665,7 +665,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Morbid meditation focus type allowed."
+          "Morbider Meditationfokus möglich."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -674,7 +674,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Undergrounder",
-      "name": "stubenhocker"
+      "name": "Stubenhocker"
     },
     {
       "canAdd": true,
@@ -682,7 +682,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy fühlt sich durch seinen schwachen menschlichen Körper eingeschränkt. er träumt oft davon, mit künstlichen Körperteilen oder Xenogenetik verbessert zu werden.",
+      "description": "Du fühlst dich durch deinen schwachen menschlichen Körper eingeschränkt. Du träumt oft davon, mit künstlichen Körperteilen oder Xenogenetik verbessert zu werden.",
       "stats": [],
       "conflicts": [
         "körperpurist"
@@ -700,7 +700,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Transhumanist",
-      "name": "körpermodifizierer"
+      "name": "Körpermodifizierer"
     },
     {
       "canAdd": true,
@@ -708,7 +708,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy glaubt, dass der menschliche Körper aus gutem Grund begrenzt ist. Für ihn sind künstliche Körperteile und Xenogene unethisch und abstoßend.",
+      "description": "Du glaubt, dass der menschliche Körper aus gutem Grund begrenzt ist. Für dich sind künstliche Körperteile und Xenogene unethisch und abstoßend.",
       "stats": [],
       "conflicts": [
         "körpermodifizierer"
@@ -726,7 +726,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "BodyPurist",
-      "name": "körperpurist"
+      "name": "Körperpurist"
     },
     {
       "canAdd": true,
@@ -734,7 +734,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat eine starke Abneigung gegen alle Männer und misstraut ihnen.",
+      "description": "Du hast eine starke Abneigung gegen alle Männer und misstraut ihnen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -748,7 +748,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "DislikesMen",
-      "name": "misandrie"
+      "name": "Misandrie"
     },
     {
       "canAdd": true,
@@ -756,7 +756,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat eine starke Abneigung gegen alle Frauen und misstraut ihnen.",
+      "description": "Du hast eine starke Abneigung gegen alle Frauen und misstraut ihnen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -770,7 +770,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "DislikesWomen",
-      "name": "misogynie"
+      "name": "Misogynie"
     },
     {
       "canAdd": true,
@@ -778,7 +778,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat ein fantastisches Gedächtnis für Details. er vergisst ungenutzte Fertigkeiten nur halb so schnell wie andere Menschen.",
+      "description": "Du hast ein fantastisches Gedächtnis für Details. Daher vergisst du ungenutzte Fertigkeiten nur halb so schnell wie andere Menschen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -792,7 +792,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "GreatMemory",
-      "name": "gutesgedächtnis"
+      "name": "gutes Gedächtnis"
     },
     {
       "canAdd": true,
@@ -800,7 +800,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat eine dicke Haut, zähes Fleisch und sehr stabile Knochen. er erleidet bei gleichvielen Schlägen deutlich weniger Schaden als andere und ist sehr schwer zu töten.",
+      "description": "Du hast eine dicke Haut, zähes Fleisch und sehr stabile Knochen. Du erleidet bei gleich vielen Schlägen deutlich weniger Schaden als andere und ist sehr schwer zu töten.",
       "stats": [
         "x50% Eingehender-Schaden-Faktor"
       ],
@@ -809,7 +809,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "x50% Eingehender-Schaden-Faktor"
+          "x50% Eingehender-Schaden"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -826,7 +826,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy fühlt sich von anderen Menschen entfremdet und missverstanden. er hat einen ständigen Stimmungsmalus, aber es besteht eine 50%ige Chance, dass er nach einem Nervenzusammenbruch eine kreative Eingebung erhält.",
+      "description": "Du fühlst dich von anderen Menschen entfremdet und missverstanden. Du hat einen ständigen Stimmungsmalus, aber es besteht eine 50%ige Chance, dass du nach einem Nervenzusammenbruch eine kreative Eingebung erhält.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -835,7 +835,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Morbid meditation focus type allowed."
+          "Morbider Meditationfokus möglich."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -844,7 +844,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "TorturedArtist",
-      "name": "gequälterkünstler"
+      "name": "gequälter Künstler"
     },
     {
       "canAdd": true,
@@ -852,7 +852,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy denkt ständig ans Essen. er wird schnell hungrig und bekommt gelegentlich den Drang, sich mit Essen vollzustopfen, auch wenn er eigentlich gar keinen Hunger hat.",
+      "description": "Du denkst ständig ans Essen. Du wird schnell hungrig und bekommst gelegentlich den Drang, dich mit Essen vollzustopfen, auch wenn du eigentlich gar keinen Hunger hat.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
         "+4 Kochen"
@@ -866,7 +866,7 @@
           "asket"
         ],
         "stats": [
-          "Only mental break \"Binging_Food\" allowed.",
+          "Nur Überfressen als Mentalerzusammenbruch möglich.",
           "+4 Kochen"
         ],
         "canBypassLimit": false,
@@ -884,7 +884,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy braucht nicht so viel Schlaf wie andere. er wird, egal ob im Bett oder auf dem Boden, in etwa zwei Drittel der üblichen Zeit ausgeruht sein.",
+      "description": "Du braucht nicht so viel Schlaf wie andere. Du ist es egal ob im Bett oder auf dem Boden schläfst. Du wirst in etwa zwei Drittel der üblichen Zeit ausgeruht sein.",
       "stats": [
         "+50% Erholungsrate-Faktor"
       ],
@@ -893,7 +893,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "+50% Erholungsrate-Faktor"
+          "+50% Erholungsrate"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -902,7 +902,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "QuickSleeper",
-      "name": "kurzschläfer"
+      "name": "Kurzschläfer"
     },
     {
       "canAdd": true,
@@ -910,7 +910,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy fällt immer hinter der Gruppe zurück, wenn er irgendwo hingeht.",
+      "description": "Du fällst immer hinter der Gruppe zurück, wenn ihr irgendwo hingeht.",
       "stats": [
         "Laufrausch inspiration disabled.",
         "-0.20 Laufgeschwindigkeit"
@@ -920,7 +920,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Laufrausch inspiration disabled.",
+          "Laufrausch Inspiration unmöglich.",
           "-0.20 Laufgeschwindigkeit"
         ],
         "canBypassLimit": false,
@@ -930,7 +930,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "SpeedOffset",
-      "name": "lahmeente"
+      "name": "lahme Ente"
     },
     {
       "canAdd": true,
@@ -938,7 +938,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy ist gerne dort, wo er hingeht. er läuft schneller als die meisten anderen.",
+      "description": "Du läufst schneller als die meisten anderen.",
       "stats": [
         "+0.20 Laufgeschwindigkeit"
       ],
@@ -956,7 +956,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "SpeedOffset",
-      "name": "schnellerläufer"
+      "name": "schneller Läufer"
     },
     {
       "canAdd": true,
@@ -964,7 +964,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy läuft immer, als hätte er es eilig - so eilig, dass andere oft nicht mithalten können.",
+      "description": "Du läufst immer, als hättest du es eilig - so eilig, dass andere oft nicht mithalten können.",
       "stats": [
         "+0.40 Laufgeschwindigkeit"
       ],
@@ -982,7 +982,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "SpeedOffset",
-      "name": "jogger"
+      "name": "Jogger"
     },
     {
       "canAdd": true,
@@ -990,7 +990,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy ist völlig fasziniert von chemischen Rauschmitteln. Der Konsum von Drogen sorgt für gute Laune, während ein Verzicht auf Drogen zunehmend zu Frustration und möglicherweise zu Drogenexzessen führt. er wird Richtlinien, die PAWN_gender ? ihm : ihr vorschreiben, keine Drogen zu nehmen, ignorieren und mehr konsumieren als ein normaler Mensch.",
+      "description": "Du bist völlig fasziniert von chemischen Rauschmitteln. Der Konsum von Drogen sorgt für gute Laune, während ein Verzicht auf Drogen zunehmend zu Frustration und möglicherweise zu Drogenexzessen führt. Du wirst Richtlinien, die dir vorschreiben, keine Drogen zu nehmen, ignorieren und mehr konsumieren als ein normaler Mensch.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1004,7 +1004,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "DrugDesire",
-      "name": "drogen-faszination"
+      "name": "Drogen-Faszination"
     },
     {
       "canAdd": true,
@@ -1012,7 +1012,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy hat ein ungewöhnliches Interesse an chemischen Rauschmitteln. Der Konsum von Drogen sorgt für gute Laune, während ein Verzicht auf Drogen zunehmend zu Frustration und möglicherweise zu Drogenexzessen führt. er wird Richtlinien, die PAWN_gender ? ihm : ihr vorschreiben, keine Drogen zu nehmen, ignorieren und mehr konsumieren als ein normaler Mensch.",
+      "description": "Du hast ein ungewöhnliches Interesse an chemischen Rauschmitteln. Der Konsum von Drogen sorgt für gute Laune, während ein Verzicht auf Drogen zunehmend zu Frustration und möglicherweise zu Drogenexzessen führt. Du wird Richtlinien, die dir vorschreiben, keine Drogen zu nehmen, ignorieren und mehr konsumieren als ein normaler Mensch.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1026,7 +1026,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "DrugDesire",
-      "name": "drogen-interesse"
+      "name": "Drogen-Interesse"
     },
     {
       "canAdd": true,
@@ -1034,9 +1034,8 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy verabscheut den Gedanken, sich an chemischen Rauschmitteln zu erfreuen. er verzichtet strikt auf Alkohol und Drogen.",
+      "description": "Du verabscheut den Gedanken, sich an chemischen Rauschmitteln zu erfreuen. du verzichtet strikt auf Alkohol und Drogen.",
       "stats": [
-        "Drogenexzess mental state disabled.",
         "Drogenexzess mental state disabled."
       ],
       "conflicts": [],
@@ -1044,8 +1043,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Drogenexzess mental state disabled.",
-          "Drogenexzess mental state disabled."
+          "Drogenexzess als Mentalerzusammenbruch unmöglich."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1054,7 +1052,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "DrugDesire",
-      "name": "abstinenzler"
+      "name": "Abstinenzler"
     },
     {
       "canAdd": true,
@@ -1062,7 +1060,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy ist von Natur aus positiv gestimmt, und zwar zu jeder Zeit, egal in welcher Situation.",
+      "description": "Du bist von Natur aus positiv gestimmt, und zwar zu jeder Zeit und egal in welcher Situation.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1076,7 +1074,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "NaturalMood",
-      "name": "frohnatur"
+      "name": "Frohnatur"
     },
     {
       "canAdd": true,
@@ -1084,7 +1082,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy ist von Natur aus optimistisch. Es ist schwer, ihn zu entmutigen.",
+      "description": "Du bist von Natur aus optimistisch. Es ist schwer, dich zu entmutigen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1098,7 +1096,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "NaturalMood",
-      "name": "optimist"
+      "name": "Optimist"
     },
     {
       "canAdd": true,
@@ -1106,7 +1104,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy ist von Natur aus pessimistisch. er neigt dazu, eher die negativen Seiten des Lebens zu sehen.",
+      "description": "Du bist von Natur aus pessimistisch. Du neigt dazu, eher die negativen Seiten des Lebens zu sehen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1120,7 +1118,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "NaturalMood",
-      "name": "pessimist"
+      "name": "Pessimist"
     },
     {
       "canAdd": true,
@@ -1128,7 +1126,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmy ist dauernd unglücklich. Es fällt PAWN_gender ? ihm : ihr schwer, dauerhaft gute Laune zu haben, selbst wenn alles in Ordnung ist.",
+      "description": "Du bist dauernd unglücklich. Es fällt dir schwer, dauerhaft gute Laune zu haben, selbst wenn alles in Ordnung ist.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1150,7 +1148,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Der Wille von Timmy ist ein eiserner Schild. er geht durch dick und dünn, wo andere schon längst zusammengebrochen wären.",
+      "description": "Dein Wille ist ein eiserner Schild. Du hällst Dinge aus, an denen die meinsten Menschen schon längst Mental überfordert und daher zerbrochen wären.",
       "stats": [
         "-18% Nervenbelastungsgrenze",
         "x25% Global-Glaubensverlust-Faktor"
@@ -1161,7 +1159,7 @@
         "conflicts": [],
         "stats": [
           "-18% Nervenbelastungsgrenze",
-          "x25% Global-Glaubensverlust-Faktor"
+          "x25% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1170,7 +1168,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Nerves",
-      "name": "eisernerwille"
+      "name": "eiserner Wille"
     },
     {
       "canAdd": true,
@@ -1178,7 +1176,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy besitzt große mentale Stärke und hält sogar Belastungen stand, an denen andere längst zerbrochen wären.",
+      "description": "Du besitzt große mentale Stärke und hält sogar Belastungen stand, bei denen andere Mental überfordert und daher zerbrochen wären.",
       "stats": [
         "-9% Nervenbelastungsgrenze",
         "x50% Global-Glaubensverlust-Faktor"
@@ -1189,7 +1187,7 @@
         "conflicts": [],
         "stats": [
           "-9% Nervenbelastungsgrenze",
-          "x50% Global-Glaubensverlust-Faktor"
+          "x50% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1206,7 +1204,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy neigt dazu, unter Stress zu zerbrechen.",
+      "description": "Du neigt dazu, unter Stress zu zerbrechen.",
       "stats": [
         "+8% Nervenbelastungsgrenze",
         "x200% Global-Glaubensverlust-Faktor"
@@ -1217,7 +1215,7 @@
         "conflicts": [],
         "stats": [
           "+8% Nervenbelastungsgrenze",
-          "x200% Global-Glaubensverlust-Faktor"
+          "x200% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1234,7 +1232,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmy ist ständig nervös. er kann beim geringsten Stress in sich zusammenbrechen.",
+      "description": "Du bist ständig nervös und brichst beim geringsten Stress in sich zusammen.",
       "stats": [
         "+15% Nervenbelastungsgrenze",
         "x300% Global-Glaubensverlust-Faktor"
@@ -1245,7 +1243,7 @@
         "conflicts": [],
         "stats": [
           "+15% Nervenbelastungsgrenze",
-          "x300% Global-Glaubensverlust-Faktor"
+          "x300% Globaler-Glaubensverlust"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1262,7 +1260,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy mag es, wenn alles erledigt ist. er arbeitet härter als die meisten anderen, um diesen Zustand zu erreichen, aber seine schwachen Nerven können PAWN_gender ? ihm : ihr zum Verhängnis werden.",
+      "description": "Du magst es, wenn alles erledigt ist. Du arbeitet härter als die meisten anderen, um diesen Zustand zu erreichen. Deine schwachen Nerven können dir zum Verhängnis werden.",
       "stats": [
         "+20% Geschwindigkeit alle Arbeiten",
         "+8% Nervenbelastungsgrenze"
@@ -1290,7 +1288,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy ist ständig nervös angesichts der Dinge, die erledigt werden müssen. er wird extrem hart arbeiten, um diesen Zustand zu erreichen, aber seine schwachen Nerven können PAWN_gender ? ihm : ihr jederzeit zum Verhängnis werden.",
+      "description": "Du bist ständig nervös angesichts der Dinge, die erledigt werden müssen. Du wird extrem hart arbeiten, um diesen Zustand zu erreichen. Deine schwachen Nerven können dir zum Verhängnis werden.",
       "stats": [
         "+40% Geschwindigkeit alle Arbeiten",
         "+14% Nervenbelastungsgrenze"
@@ -1310,7 +1308,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Neurotic",
-      "name": "starkneurotisch"
+      "name": "stark neurotisch"
     },
     {
       "canAdd": true,
@@ -1318,7 +1316,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy fällt es leicht, bei der Sache zu bleiben und sich zu konzentrieren. er erledigt Dinge sehr viel schneller als die meisten anderen.",
+      "description": "Dir fällt es leicht, bei der Sache zu bleiben und dich zu konzentrieren. Du erledigt Dinge sehr viel schneller als die meisten anderen.",
       "stats": [
         "+35% Geschwindigkeit alle Arbeiten"
       ],
@@ -1344,7 +1342,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy ist von Natur aus PAWN_gender ? ein harter Arbeiter : eine harte Arbeiterin und wird Aufgaben schneller als die meisten anderen erledigen.",
+      "description": "Du arbeitest von Natur aus hart und wirst Aufgaben schneller als die meisten anderen erledigen.",
       "stats": [
         "+20% Geschwindigkeit alle Arbeiten"
       ],
@@ -1362,7 +1360,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Industriousness",
-      "name": "hartarbeitend"
+      "name": "hart arbeitend"
     },
     {
       "canAdd": true,
@@ -1370,7 +1368,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy ist ein bisschen träge.",
+      "description": "Du bist ein bisschen träge.",
       "stats": [
         "-20% Geschwindigkeit alle Arbeiten"
       ],
@@ -1396,7 +1394,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmy liebt das Nichtstun und hasst alles, was produktiv ist. er bewegt sich langsam und lässt sich leicht ablenken.",
+      "description": "Du liebt das Nichtstun und hasst alles, was produktiv ist. Du bewegt dich langsam und lässt dich leicht ablenken.",
       "stats": [
         "-35% Geschwindigkeit alle Arbeiten"
       ],
@@ -1422,7 +1420,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "replace: Timmys; \"s(/Name)s\"-\"s(/Name)'\"; \"ß(/Name)s\"-\"ß(/Name)'\"; \"z(/Name)s\"-\"z(/Name)'\"; \"x(/Name)s\"-\"x(/Name)'\"; \"ce(/Name)s\"-\"ce(/Name)'\" Psyche ist wie eine mentale Stimmgabel. er ist extrem empfänglich für übersinnliche Phänomene.",
+      "description": "Deine Psyche ist wie eine mentale Stimmgabel. Du ist extrem empfänglich für übersinnliche Phänomene.",
       "stats": [
         "+80% mentale Sensibilität"
       ],
@@ -1440,7 +1438,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "PsychicSensitivity",
-      "name": "mentalhochsensibel"
+      "name": "Mental hochsensibel"
     },
     {
       "canAdd": true,
@@ -1448,7 +1446,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "replace: Timmys; \"s(/Name)s\"-\"s(/Name)'\"; \"ß(/Name)s\"-\"ß(/Name)'\"; \"z(/Name)s\"-\"z(/Name)'\"; \"x(/Name)s\"-\"x(/Name)'\"; \"ce(/Name)s\"-\"ce(/Name)'\" Psyche ist ungewöhnlich empfänglich für übersinnliche Phänomene.",
+      "description": "Deine Psyche ist ungewöhnlich empfänglich für übersinnliche Phänomene.",
       "stats": [
         "+40% mentale Sensibilität"
       ],
@@ -1466,7 +1464,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "PsychicSensitivity",
-      "name": "mentalsensibel"
+      "name": "Mental sensibel"
     },
     {
       "canAdd": true,
@@ -1474,7 +1472,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "replace: Timmys; \"s(/Name)s\"-\"s(/Name)'\"; \"ß(/Name)s\"-\"ß(/Name)'\"; \"z(/Name)s\"-\"z(/Name)'\"; \"x(/Name)s\"-\"x(/Name)'\"; \"ce(/Name)s\"-\"ce(/Name)'\" Psyche ist nicht im Einklang mit anderen. er wird nicht so stark von übersinnlichen Phänomenen beeinflusst.",
+      "description": "Deine Psyche ist nicht im Einklang mit anderen. Du wird nicht so stark von übersinnlichen Phänomenen beeinflusst.",
       "stats": [
         "-50% mentale Sensibilität"
       ],
@@ -1492,7 +1490,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "PsychicSensitivity",
-      "name": "mentalabgestumpft"
+      "name": "Mental abgestumpft"
     },
     {
       "canAdd": true,
@@ -1500,7 +1498,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "replace: Timmys; \"s(/Name)s\"-\"s(/Name)'\"; \"ß(/Name)s\"-\"ß(/Name)'\"; \"z(/Name)s\"-\"z(/Name)'\"; \"x(/Name)s\"-\"x(/Name)'\"; \"ce(/Name)s\"-\"ce(/Name)'\" Psyche arbeitet auf einer anderen Frequenz als alle anderen. er ist immun gegen übersinnliche Phänomene.",
+      "description": "Deine Psyche arbeitet auf einer anderen Frequenz als die aller anderen. Du ist immun gegen übersinnliche Phänomene.",
       "stats": [
         "-100% mentale Sensibilität"
       ],
@@ -1518,7 +1516,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "PsychicSensitivity",
-      "name": "mentaltaub"
+      "name": "Mental taub"
     },
     {
       "canAdd": true,
@@ -1526,7 +1524,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy lässt sich mehr Zeit beim Zielen. er schießt langsamer als andere, aber dafür genauer.",
+      "description": "Du lässt dir mehr Zeit beim Zielen. Du schießt langsamer als andere, dafür aber genauer.",
       "stats": [
         "+25% Anvisierungsdauer",
         "+5.0 Fernkampfgenauigkeit"
@@ -1550,7 +1548,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "ShootingAccuracy",
-      "name": "sorgfältigerschütze"
+      "name": "sorgfältiger Schütze"
     },
     {
       "canAdd": true,
@@ -1558,7 +1556,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Peng! Peng! Peng! Timmy fackelt nicht lange und drückt ab. er schießt schneller als andere, aber dafür ungenauer.",
+      "description": "Peng! Peng! Peng! Du fackelst nicht lange und drückst ab. Du schießt schneller als andere, dafür aber ungenauer.",
       "stats": [
         "-50% Anvisierungsdauer",
         "-5.0 Fernkampfgenauigkeit"
@@ -1590,7 +1588,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy ist außergewöhnlich schön, mit einer exotischen und doch vertrauten Gesichtsform und einem fesselnden Blick. Die Menschen fühlen sich zu PAWN_gender ? ihm : ihr hingezogen, noch bevor er den Mund aufmacht.",
+      "description": "Du bist außergewöhnlich schön, mit einer exotischen und doch vertrauten Gesichtsform und einem fesselnden Blick. Die Menschen fühlen sich zu dir hingezogen, noch bevor du den Mund aufmachst.",
       "stats": [
         "+2.0 Attraktivität"
       ],
@@ -1608,7 +1606,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Beauty",
-      "name": "wunderschön"
+      "name": "Wunderschön"
     },
     {
       "canAdd": true,
@@ -1616,7 +1614,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy hat ein hübsches Gesicht, das die Menschen dazu veranlasst, ihn zu mögen.",
+      "description": "Du hast ein hübsches Gesicht, das die Menschen dazu veranlasst, dich zu mögen.",
       "stats": [
         "+1.0 Attraktivität"
       ],
@@ -1642,7 +1640,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy ist nicht sonderlich schön, was einen subtilen negativen Einfluss auf andere hat.",
+      "description": "Du bist nicht sonderlich schön, was einen subtilen negativen Einfluss auf andere hat.",
       "stats": [
         "-1.0 Attraktivität"
       ],
@@ -1668,7 +1666,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmy ist unglaublich hässlich. sein Gesicht erinnert an eine Mischung aus einer unbeholfenen Kinderzeichnung, einem in Formaldehyd eingelegten missgebildeten Fötus und moderner Kunst. Es kostet große Überwindung, ihn bei einem Gespräch ins Gesicht zu schauen.",
+      "description": "Du bist unglaublich hässlich. Dein Gesicht erinnert an eine Mischung aus einer unbeholfenen Kinderzeichnung, einem in Formaldehyd eingelegten missgebildeten Fötus und moderner Kunst. Es kostet große Überwindung, dir bei einem Gespräch ins Gesicht zu schauen.",
       "stats": [
         "-2.0 Attraktivität"
       ],
@@ -1686,7 +1684,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Beauty",
-      "name": "extremhässlich"
+      "name": "extrem hässlich"
     },
     {
       "canAdd": true,
@@ -1694,7 +1692,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy hat von Natur aus ein starkes Immunsystem. er wird viel schneller immun als ein normaler Mensch und kann Krankheiten überleben, die andere töten würden.",
+      "description": "Du hast von Natur aus ein starkes Immunsystem. Du wirst viel schneller immun als ein normaler Mensch und kannst Krankheiten überleben, die andere töten würden.",
       "stats": [
         "+30% Immunisiergeschwindigkeit"
       ],
@@ -1712,7 +1710,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Immunity",
-      "name": "super-immun"
+      "name": "Super-Immun"
     },
     {
       "canAdd": true,
@@ -1720,7 +1718,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy hat ein schwaches Immunsystem. er wird häufiger krank als üblich und muss sich regelmäßig mit Krankheiten auseinandersetzen, an denen niemand sonst in der Kolonie erkrankt ist.",
+      "description": "Du hast ein schwaches Immunsystem. Du wirst häufiger krank als üblich und musst dich regelmäßig mit Krankheiten auseinandersetzen, an denen niemand sonst in der Kolonie erkranken würde.",
       "stats": [
         "+4 Medizin"
       ],
@@ -1746,7 +1744,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat eine dünne Haut und schwache Knochen. er erleidet bei gleichvielen Schlägen mehr Schaden als andere.",
+      "description": "Du hast eine dünne Haut und schwache Knochen. Du erleidet bei gleichvielen Schlägen mehr Schaden als andere.",
       "stats": [
         "x115% Eingehender-Schaden-Faktor"
       ],
@@ -1772,7 +1770,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Je weniger Leute in der Fraktion sind, desto glücklicher ist Timmy. Am liebsten ist er allein.",
+      "description": "Je weniger Leute in der Fraktion sind, desto glücklicher bist du. Am liebsten bist du allein.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1786,7 +1784,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Recluse",
-      "name": "einsiedler"
+      "name": "Einsiedler"
     },
     {
       "canAdd": true,
@@ -1794,7 +1792,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat ein ausgezeichnetes Gedächtnis, sowohl was das Merken von Informationen als auch das Muskelgedächtnis betrifft. er wird nie vergessen, was er gelernt hat.",
+      "description": "Du hast ein ausgezeichnetes Gedächtnis, sowohl was das Merken von Informationen als auch das Muskelgedächtnis betrifft. Du wirst nie vergessen, was du gelernt hat.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1808,7 +1806,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "PerfectMemory",
-      "name": "perfektesgedächtnis"
+      "name": "perfektes Gedächtnis"
     },
     {
       "canAdd": true,
@@ -1816,7 +1814,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat ein tiefes Verständnis für die verworrenen Muster der dunklen übersinnlichen Energie. er kann unnatürliche Entitäten schneller studieren als andere. er gibt dieses unmenschliche Wissen auch regelmäßig an andere weiter, wenn er die Gelegenheit dazu hat.",
+      "description": "Du hast ein tiefes Verständnis für die verworrenen Muster der dunklen übersinnlichen Energie. Du kannst unnatürliche Entitäten schneller studieren als andere. Du gibst dieses unmenschliche Wissen auch regelmäßig an andere weiter, wenn du die Gelegenheit dazu hat.",
       "stats": [
         "+100% Studiumeffizienz",
         "+50% Entitätsstudiumrate"
@@ -1836,7 +1834,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Occultist",
-      "name": "okkultist"
+      "name": "Okkultist"
     },
     {
       "canAdd": true,
@@ -1844,7 +1842,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat die Fähigkeit, jedem ein besseres Gefühl zu geben und ihn zu inspirieren, sein Bestes zu geben.",
+      "description": "Du hast die Fähigkeit, jedem ein besseres Gefühl zu geben und ihn zu inspirieren, sein Bestes zu geben.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1866,7 +1864,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat keine Grundbedürfnisse wie Essen, Schlafen oder Komfort. sein Körper wird von einem unbekannten Mechanismus angetrieben, der seine Augen völlig weiß werden lässt.",
+      "description": "Du hast keine Grundbedürfnisse wie Essen, Schlafen oder Komfort. Dein Körper wird von einem unbekannten Mechanismus angetrieben, der deine Augen völlig weiß werden lässt.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1880,7 +1878,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "BodyMastery",
-      "name": "körperbeherrschung"
+      "name": "Körperbeherrschung"
     },
     {
       "canAdd": true,
@@ -1888,7 +1886,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy ist ein seltsamer Mensch, der von abscheulichen Ideen besessen zu sein scheint. Ein Gespräch mit PAWN_gender ? ihm : ihr ist oft beunruhigend.",
+      "description": "Du bist ein seltsamer Mensch, der von abscheulichen Ideen besessen zu sein scheint. Ein Gespräch mit dir ist oft sehr beunruhigend.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -1897,7 +1895,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Morbid meditation focus type allowed."
+          "Morbider Meditationfokus möglich."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1914,7 +1912,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy ist auf seltsame Weise von unnatürlichen Entitäten fasziniert und lässt sich leicht von ihnen in den Bann ziehen.",
+      "description": "Du bist auf seltsame Weise von unnatürlichen Entitäten fasziniert und lässt dich leicht von ihnen in den Bann ziehen.",
       "stats": [
         "Künstlerisch meditation focus type disabled.",
         "Leere meditation focus type allowed.",
@@ -1925,9 +1923,9 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Künstlerisch meditation focus type disabled.",
-          "Leere meditation focus type allowed.",
-          "Only mental break \"Entitätsbefreier\" allowed."
+          "Künstlerischer Meditationfokus unmöglich.",
+          "Leeren Meditationfokus möglich.",
+          "Nur Entitätsbefreier als Mentalerzusammenbruch möglich."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1936,7 +1934,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "VoidFascination",
-      "name": "leere-faszination"
+      "name": "Leere-Faszination"
     },
     {
       "canAdd": true,
@@ -1944,7 +1942,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy hat eine krankhafte Angst vor Keimen und und wäscht sich viel häufiger als andere.",
+      "description": "Du hast eine krankhafte Angst vor Keimen und und wäscht dich viel häufiger als andere.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1958,7 +1956,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Hygienic",
-      "name": "mysophobie"
+      "name": "Mysophobie"
     },
     {
       "canAdd": true,
@@ -1966,7 +1964,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy ist sehr hygienisch und wäscht sich öfters.",
+      "description": "Du bist sehr hygienisch und wäscht dich öfters.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1988,7 +1986,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy ist sehr unhygienisch und wird sich seltener waschen.",
+      "description": "Du bist sehr unhygienisch und wirst dich seltener waschen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2010,7 +2008,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmy hat ein sehr geringes Sauberkeitsbedürfnis und wäscht sich nur, wenn es unbedingt nötig ist.",
+      "description": "Du hast ein sehr geringes Sauberkeitsbedürfnis und wäscht dich nur, wenn es unbedingt nötig ist.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2024,7 +2022,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Hygienic",
-      "name": "schmutzfink"
+      "name": "Schmutzfink"
     },
     {
       "canAdd": true,
@@ -2032,7 +2030,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. er will prefer fishing above other activities.",
+      "description": "Du liebst die Einsamkeit und Ruhe, welche lange Angelausflüge mit sich bringen. Du wirst Angeln jeder anderen Aktivität bevorzugen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2046,7 +2044,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "VCEF_Fisherman",
-      "name": "fisherman"
+      "name": "Fisherman"
     }
   ],
   "races": [
