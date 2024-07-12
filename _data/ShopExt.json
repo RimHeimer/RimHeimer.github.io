@@ -54,7 +54,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy ist ein außergewöhnlich netter und großzügiger Mensch. er wird andere nur selten beleidigen und manchmal freundliche Worte äußern, um seine Mitmenschen aufzuheitern. Außerdem wird er Menschen niemals nach ihrem Aussehen beurteilen. seine Nettigkeit führt aber dazu, dass er sich eher den vorherrschenden Meinungen anpasst.",
+      "description": "Du bist ein außergewöhnlich netter und großzügiger Mensch. Du wird andere nur selten beleidigen und manchmal freundliche Worte äußern, um deine Mitmenschen aufzuheitern. Außerdem wirst du Menschen niemals nach ihrem Aussehen beurteilen. Deine Nettigkeit führt allerdings dazu, dass du dich eher den vorherrschenden Meinungen anpasst.",
       "stats": [
         "x200% Global-Glaubensverlust-Faktor"
       ],
@@ -69,7 +69,7 @@
           "psychopath"
         ],
         "stats": [
-          "x200% Global-Glaubensverlust-Faktor"
+          "x200% Globaler-Glaubensverlust-Faktor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -86,7 +86,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat kein Mitgefühl. Das Leid der anderen stört ihn überhaupt nicht. Es macht PAWN_gender ? ihm : ihr nichts aus, wenn andere geschlachtet, tot liegen gelassen, eingesperrt oder in die Sklaverei verkauft werden - es sei denn, es betrifft ihn selbst. er bekommt keinen Stimmungsbonus durch soziale Interaktionen.",
+      "description": "Du hast kein Mitgefühl. Das Leid anderen stört dich überhaupt nicht. Es macht dir nichts aus, wenn andere geschlachtet, tot liegen gelassen, eingesperrt oder in die Sklaverei verkauft werden - es sei denn, es betrifft dich selbst. Du bekommt keinen Stimmungsbonus durch soziale Interaktionen.",
       "stats": [
         "Morbid meditation focus type allowed.",
         "x50% Global-Glaubensverlust-Faktor"
@@ -96,8 +96,8 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Morbid meditation focus type allowed.",
-          "x50% Global-Glaubensverlust-Faktor"
+          "Morbider Meditationfokus möglich.",
+          "x50% Globaler-Glaubensverlust-Faktor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -114,7 +114,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy bekam beigebracht, dass es falsch und schrecklich ist, Menschenfleisch zu essen. Trotzdem hat er es einmal probiert․․․ und es hat PAWN_gender ? ihm : ihr geschmeckt.",
+      "description": "Du bekamst beigebracht, dass es falsch und schrecklich ist, Menschenfleisch zu essen. Trotzdem hast du es einmal probiert․․․ und es hat dir geschmeckt.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -123,7 +123,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Morbid meditation focus type allowed."
+          "Morbider Meditationfokus möglich."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -140,7 +140,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy sagt immer genau das, was er denkt, vor allem dann, wenn es ihn stört. Dieses Verhalten wird von anderen oft als unangenehm empfunden.",
+      "description": "Du sagt immer genau das, was du denkt, vor allem dann, wenn es dich stört. Dieses Verhalten wird von anderen oft als unangenehm empfunden.",
       "stats": [
         "x50% Global-Glaubensverlust-Faktor"
       ],
@@ -149,7 +149,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "x50% Global-Glaubensverlust-Faktor"
+          "x50% Globaler-Glaubensverlust-Faktor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -166,7 +166,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy ist schlauer als PAWN_gender ? ihm : ihr lieb ist. er lernt alles viel schneller als andere, kann aber auch ziemlich exzentrisch sein.",
+      "description": "Du bist schlauer als dir lieb ist. Du lernt alles viel schneller als andere, kannst aber auch ziemlich exzentrisch sein.",
       "stats": [
         "+75% Global-Lernrate-Faktor",
         "+12% Nervenbelastungsgrenze",
@@ -189,9 +189,9 @@
           "langsamerlerner"
         ],
         "stats": [
-          "+75% Global-Lernrate-Faktor",
+          "+75% Globaler-Lernrate-Faktor",
           "+12% Nervenbelastungsgrenze",
-          "x50% Global-Glaubensverlust-Faktor"
+          "x50% Globaler-Glaubensverlust-Faktor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -208,7 +208,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy liebt es, wenn Kämpfe nah und persönlich sind. seine Genauigkeit im Nahkampf ist unübertroffen, aber er bekommt schlechte Laune, wenn er eine Fernkampfwaffe tragen muss.",
+      "description": "Du liebt es, wenn Kämpfe nah und persönlich sind. Deine Genauigkeit im Nahkampf ist unübertroffen, du bekommt deswegen schlechte Laune, wenn du eine Fernkampfwaffe tragen musst.",
       "stats": [
         "Schießrausch inspiration disabled.",
         "+4 Nahkampf",
@@ -228,7 +228,7 @@
           "weichei"
         ],
         "stats": [
-          "Schießrausch inspiration disabled.",
+          "Schießrausch Inspiration unmöglich.",
           "+4 Nahkampf",
           "-10 Fernkampf",
           "+4.0 Nahkampftrefferchance"
@@ -248,7 +248,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy findet es erregend, verletzt zu werden. Die Gründe dafür kennt er nicht - er ist einfach anders gestrickt.",
+      "description": "Du findet es erregend, verletzt zu werden. Die Gründe dafür kennst du nicht - Du bist einfach anders gestrickt.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -261,7 +261,7 @@
           "weichei"
         ],
         "stats": [
-          "Morbid meditation focus type allowed."
+          "Morbider Meditationfokus möglich."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -278,7 +278,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy mag es, nachts wach zu sein und tagsüber zu schlafen.\n\nseine Stimmung verbessert sich, wenn er nachts (23 bis 6 Uhr) wach ist, aber verschlechtert sich, wenn er tagsüber (11 bis 18 Uhr) wach ist.\n\ner bekommt keinen Stimmungsabzug, wenn er sich im Dunkeln aufhält.",
+      "description": "Du mag es, nachts wach zu sein und tagsüber zu schlafen. Deine Stimmung verbessert sich, wenn du Nachts (23 bis 6 Uhr) wach bist und verschlechtert sich, wenn du Tagsüber (11 bis 18 Uhr) wach bist. Du bekommst keinen Stimmungsabzug, wenn du dich im Dunkeln aufhält.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -300,7 +300,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy braucht einen wirklich imposanten Schlafraum. seine Stimmung verschlechtert sich, wenn er nicht bekommt, was er will.",
+      "description": "Du braucht einen wirklich imposanten Schlafraum. Deine Stimmung verschlechtert sich, wenn du nicht bekommst, was du willst.",
       "stats": [],
       "conflicts": [
         "asket",
@@ -328,7 +328,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy fühlt sich beleidigt, wenn sein Schlafraum nicht so imposant ist wie der eines anderen. seine Stimmung verschlechtert sich, wenn ein anderer Kolonist einen imposanteren Schlafraum hat.",
+      "description": "Du fühlt dich beleidigt, wenn dein Schlafraum nicht so imposant ist wie der von anderen. Deine Stimmung verschlechtert sich, wenn ein anderer Kolonist einen imposanteren Schlafraum hat.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -343,7 +343,7 @@
           "habgierig"
         ],
         "stats": [
-          "Morbid meditation focus type allowed."
+          "Morbider Meditationfokus möglich."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -360,7 +360,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy verzichtet auf körperliche Annehmlichkeiten und Vergnügen zugunsten eines einfachen, reinen Lebensstils. er bekommt schlechte Laune, wenn sein Schlafraum zu imposant ist. Außerdem verabscheut er ausgefallenes Essen und isst am liebsten roh. er beurteilt andere nie nach ihrem Aussehen.",
+      "description": "Du verzichtest auf körperliche Annehmlichkeiten und Vergnügen zugunsten eines einfachen, reinen Lebensstils. Du bekommt schlechte Laune, wenn dein Schlafraum zu imposant ist. Außerdem verabscheust du ausgefallenes Essen und isst es liebsten roh. Du beurteilt andere nie nach ihrem Aussehen.",
       "stats": [
         "Künstlerisch meditation focus type disabled.",
         "Minimal meditation focus type allowed.",
@@ -379,9 +379,9 @@
           "vielfraß"
         ],
         "stats": [
-          "Künstlerisch meditation focus type disabled.",
-          "Minimal meditation focus type allowed.",
-          "x50% Global-Glaubensverlust-Faktor"
+          "Künstlerischer Meditationfokus unmöglich.",
+          "Minimaler Meditationfokus möglich.",
+          "x50% Globaler-Glaubensverlust-Faktor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -398,7 +398,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy fühlt sich sexuell zu Menschen seines eigenen Geschlechts hingezogen.",
+      "description": "Du fühlt dich sexuell zu Menschen deines eigenen Geschlechts hingezogen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -420,7 +420,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy fühlt sich sowohl zu Männern als auch Frauen sexuell hingezogen.",
+      "description": "Du fühlst dich sowohl zu Männern als auch zu Frauen sexuell hingezogen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -442,7 +442,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy empfindet keinerlei sexuelles Verlangen.",
+      "description": "Du empfindet keinerlei sexuelles Verlangen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -464,7 +464,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy hat eine ausgesprochen schrille, nasale Stimme und neigt dazu, sich in lauten, unverständlichen Sätzen auszudrücken - sehr zum Leidwesen anderer.",
+      "description": "Du hast eine ausgesprochen schrille, nasal klingende Stimme und neigt dazu, dich in lauten, unverständlichen Sätzen auszudrücken - sehr zum Leidwesen anderer.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -486,7 +486,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy atmet schwer und ist ständig am Schwitzen. Andere Leute finden das unheimlich.",
+      "description": "Du atmest schwer und bist ständig am Schwitzen. Andere Leute finden das unheimlich.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -508,7 +508,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy liebt das Feuer. er wird nie ein Feuer löschen. Außerdem wird er gelegentlich zum Feuerteufel und willkürlich Brände entfachen. er fühlt sich in der Nähe von Flammen wohl und ist noch glücklicher, wenn er eine Brandwaffe besitzt.",
+      "description": "Du liebt das Feuer. Du wird es daher nie löschen. Außerdem wirst du gelegentlich zum Feuerteufel und willkürlich Brände entfachen. Du fühlt sich in der Nähe von Flammen wohl und bist noch glücklicher, wenn du eine Brandwaffe besitzt.",
       "stats": [
         "Brennend meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
@@ -518,8 +518,8 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Brennend meditation focus type allowed.",
-          "Only mental break \"FireStartingSpree\" allowed."
+          "Brennender Meditationfocus möglich.",
+          "Nur Feuerteufel als Mentalerzusammenbruch möglich."
         ],
         "canBypassLimit": false,
         "customName": false,
