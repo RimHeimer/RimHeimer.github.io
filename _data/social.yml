@@ -8,7 +8,7 @@ facebook:
 flickr:
 gitlab:
 github:
-instagram: true
+instagram:
 keybase:
 linkedin:
 pinterest:
@@ -16,13 +16,13 @@ reddit:
 soundcloud:
 stack_overflow:
 stack_exchange:
-steam: true
+steam:
 tumblr:
-twitter: true
+twitter: 
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: true
+twitch: TheTrueCeraph
 tiktok:
 
 # Share button options
