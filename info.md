@@ -4,10 +4,10 @@ layout: page
 permalink: /info
 ---
 
-<link rel="stylesheet" href="{{- 'assets/css/core.css' | relative_url -}} "/>
+/*<link rel="stylesheet" href="{{- 'assets/css/core.css' | relative_url -}} "/>
 <script src="{{- 'assets/js/tabs.js' | relative_url -}}"></script>
 <script src="{{- 'assets/js/filter.js' | relative_url -}}"></script>
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>*/
 
 {%- assign utils = false -%}
 {%- assign lootboxes = false -%}
@@ -37,7 +37,7 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
-<h1 style="text-aling:center"> <img src="assets/img/flame_left.png">Wilkomm#en<img src="assets/img/flame_right.png"></h1>
+<h1 style="text-align:center"> <img src="assets/img/flame_left.png">Wilkommen<img src="assets/img/flame_right.png"></h1>
 
 Wilkommen zu [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s Stream.
 Ceraph nutzt die Rimworld Mod
