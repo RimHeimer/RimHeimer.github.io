@@ -11,15 +11,12 @@ permalink: /info
 
 {%- assign utils = false -%}
 {%- assign lootboxes = false -%}
-{%- assign puppeteer = false -%}
 {%- for mod in site.data.modlist -%}
     {%- case mod.name -%}
         {%- when 'ToolkitUtils' %}
             {%- assign utils = true -%}
         {%- when 'ToolkitUtils - Testing' -%}
             {%- assign utils = true -%}
-        {%- when 'Puppeteer' -%}
-            {%- assign puppeteer = true -%}
         {%- when 'TwitchToolkit - Lootboxes' -%}
             {%- assign lootboxes = true -%}
     {%- endcase -%}
@@ -40,7 +37,7 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
-# <img src="assets/img/flame_left.png">Wilkommen<img src="assets/img/flame_right.png">
+# <img src="assets/img/flame_left.png">Wilkommen<img src="assets/img/flame_right.svg">
 
 Wilkommen zu [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s Stream.
 Ceraph nutzt die Rimworld Mod
