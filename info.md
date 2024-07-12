@@ -37,7 +37,7 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
-# <img src="assets/img/flame_left.png">Wilkommen<img src="assets/img/flame_right.svg">
+# <img src="assets/img/flame_left.png">Wilkommen<img src="assets/img/flame_right.png">
 
 Wilkommen zu [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s Stream.
 Ceraph nutzt die Rimworld Mod
