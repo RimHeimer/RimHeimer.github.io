@@ -2074,23 +2074,23 @@
       "data": {
         "customName": false,
         "stats": [
-          "+40.00 Gewicht",
-          "+50% Entflammbarkeit",
-          "+$2750 Marktwert",
-          "+5.60 Laufgeschwindigkeit",
-          "+16.0C Min. Wohlfühltemperatur",
-          "+26.0C Max. Wohlfühltemperatur",
+          "+69.00 Gewicht",
+          "+42% Entflammbarkeit",
+          "+$22750 Marktwert",
+          "+7.20 Laufgeschwindigkeit",
+          "+22.0C Min. Wohlfühltemperatur",
+          "+28.0C Max. Wohlfühltemperatur",
           "+25 Ledermenge",
-          "+3 Ehre-Wertigkeit"
+          "+7 Ehre-Wertigkeit"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "Ein durchschnittlicher Yokai der Unterart der Yurei, weitgehend unberührt von gentechnischen Eingriffen.",
+      "description": "Ein durchschnittlicher Yokai der Unterart der Yurei.",
       "defName": "Yurei",
-      "enabled": true,
+      "enabled": false,
       "name": "Yokai",
-      "price": 2917
+      "price": 100000
     }
   ]
 }
