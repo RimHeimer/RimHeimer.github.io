@@ -3,7 +3,7 @@ title: "Nepi's Toolkit Liste"
 favicon: assets/img/Logo_N.png
 description: Eine auf Nepi zugeschnittene Version der Toolkit Item List, welche die neusten Funktionen von Utils überstützt.
 
-baseurl: '/info' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'nepiheimer'
 github_username: 'hummfried'
@@ -68,7 +68,7 @@ mods:
   author: true
 
 # Build settings
-theme: type-on-strap
+theme: sylhare/type-on-strap
 markdown: kramdown
 sass:
   style: compressed
