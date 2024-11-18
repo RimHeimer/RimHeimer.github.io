@@ -1,12 +1,11 @@
 # Metadata
-title: "Nepis's Toolkit Liste"
-favicon: 'assets/img/Logo_C.png'
-image: ''
-description: Eine auf Nepi zugeschnittene Version der Toolkit Item List, welche die neusten Funktionen von Utils überstützt.
+title: "SirRandoo's Purchase List"
+favicon: assets/img/Logo_N.png
+description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/info' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 'Nepiheimer'
+twitter_username: 'nepiheimer'
 github_username: 'hummfried'
 
 # Item list settings
@@ -29,7 +28,7 @@ store:
     karma: true
     limit: true
     description: true
-    usage: true
+    usage: false
     mod: true
   kinds:
     mod: true
@@ -69,15 +68,12 @@ mods:
   author: true
 
 # Build settings
-remote_theme: sylhare/Type-on-Strap
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
-
+theme: type-on-strap
 markdown: kramdown
 sass:
   style: compressed
 
 permalink: pretty
+
+exclude:
+  - build-scripts
