@@ -40,8 +40,8 @@ permalink: /info
 <h1 style="text-align:center"> <img src="assets/img/flame_left.png">Wilkommen<img src="assets/img/flame_right.png"></h1>
 
 Wilkommen zu [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s Stream.
-Ceraph nutzt die Rimworld Mod
-[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) um mit seinen Zuschauern gemeinsam ein Interaktives Rimworld Chaos zu schaffen. 
+Nepi nutzt die Rimworld Mod
+[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) um mit ihren Zuschauern gemeinsam ein Interaktives Rimworld Chaos zu schaffen. 
 Vieles an dieser Mod mag am Anfang recht kompliziert erscheinen, nur hoffen wir, das diese kurze Anleitung dabei helfen kann im Ansatz zu verstehen, wie diese Mod funktioniert.
 
 ## Was ist eingentlich dieses Twitch Toolkit?

@@ -1,12 +1,12 @@
 # Metadata
-title: "Ceraph's Toolkit Liste"
+title: "Nepis's Toolkit Liste"
 favicon: 'assets/img/Logo_C.png'
 image: ''
-description: Eine auf Ceraph zugeschnittene Version der Toolkit Item List, welche die neusten Funktionen von Utils überstützt.
+description: Eine auf Nepi zugeschnittene Version der Toolkit Item List, welche die neusten Funktionen von Utils überstützt.
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 'TheTrueCeraph'
+twitter_username: 'Nepiheimer'
 github_username: 'hummfried'
 
 # Item list settings
@@ -29,7 +29,7 @@ store:
     karma: true
     limit: true
     description: true
-    usage: false
+    usage: true
     mod: true
   kinds:
     mod: true
