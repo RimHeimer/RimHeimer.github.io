@@ -39,7 +39,7 @@ permalink: /info
 
 <style>
 p, ul {
-  background-color: silver;
+  background-color: white;
 }
 </style>
 
