@@ -100,15 +100,6 @@ Befehl hier nun zu erklären ist viel zu wenig Platz. Du kannst daher die komple
 hier einsehen.
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 Hier noch ein kleiner Hinweis.<br/>
  Der `{{- buy -}}` Befehlt lässt sich auch durch ein simples `$` ersetzen. <br/>
