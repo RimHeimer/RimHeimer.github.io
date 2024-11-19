@@ -1,10 +1,10 @@
 body {
-  background-color: #ffe28a; /*b4a7d6 6a329f*/
-  /*background-image: url('') ;
+  /*background-color: #ffe28a;*/
+  background-image: url('assets/img/Nepi_Header.png') ;
   background-repeat: no-repeat ;
   background-attachment: fixed ;
   background-size: 1920px ;
-  background-position: center ;*/
+  background-position: center ;
 }
 
 .tab { /*Leiste unter der Überschrift*/
