@@ -38,7 +38,7 @@ permalink: /info
 {%- endfor -%}
 
 <style>
-p, ul {
+section {
   background-color: white;
 }
 </style>
