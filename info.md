@@ -37,7 +37,7 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
-<h1 style="text-align:center"> <img src="assets/img/flame_left.png">Wilkommen<img src="assets/img/flame_right.png"></h1>
+<h1 style="text-align:center"> <img src="assets/img/_left.png">Wilkommen<img src="assets/img/_right.png"></h1>
 
 Wilkommen zu [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s Stream.
 Nepi nutzt die Rimworld Mod
