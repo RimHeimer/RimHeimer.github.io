@@ -81,7 +81,6 @@ mit Hilfe des Chatbefehls `!openlootbox` öffnen. Außerdem kannst du mit dem Ch
 You'll always get a new lootbox everyday.
 {%- endif -%}
 
-<br/>
 ## Was ist Karma?
 
 Karma ist ein System innerhalb von Twitch Toolkit das versucht die Anzahl negativer Ereignisse zu begrenzen,
@@ -98,8 +97,6 @@ welcher dich die verschiedensten Sachen aus den Store kaufen lässt. Ein weitere
 der `!mypawn` Befehl, dieser erlaubt dir eine vielzahl an Infomationen über deinen Pawn abzurufen. Um jeden
 Befehl hier nun zu erklären ist viel zu wenig Platz. Du kannst daher die komplette Liste der [Befehle]({{- "/commands" | relative_url -}})
 hier einsehen.
-
-<br/>
 
 Hier noch ein kleiner Hinweis.<br/>
  Der `{{- buy -}}` Befehlt lässt sich auch durch ein simples `$` ersetzen. <br/>
