@@ -37,9 +37,10 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
+<html>
 <style>
-h1, h2, p, ul,  {
-    background-color: Silver;
+h1, h2, p, ul {
+  background-color: silver;
 }
 </style>
 
@@ -112,4 +113,4 @@ hier einsehen.
 
 Hier noch ein kleiner Hinweis.<br/>
  Der `{{- buy -}}` Befehlt lässt sich auch durch ein simples `$` ersetzen. <br/>
-
+</html>
