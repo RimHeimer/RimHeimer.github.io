@@ -37,7 +37,13 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
-<h1 style="text-align:center"> <img src="assets/img/_left.png">Wilkommen<img src="assets/img/_right.png"></h1>
+<style>
+h1, h2, p, ul,  {
+    background-color: #ffe28a
+}
+</style>
+
+<h1 style="text-align:center"> <img src="/assets/img/Nepi_wobble.gif">Wilkommen<img src="/assets/img/Nepi_wobble.gif"></h1>
 
 Wilkommen zu [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s Stream.
 Nepi nutzt die Rimworld Mod
@@ -106,3 +112,4 @@ hier einsehen.
 
 Hier noch ein kleiner Hinweis.<br/>
  Der `{{- buy -}}` Befehlt lässt sich auch durch ein simples `$` ersetzen. <br/>
+
